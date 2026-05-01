@@ -168,11 +168,9 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 <div align="center">
   
-  📧 **Email**: [your-email@example.com]  
-  💼 **LinkedIn**: [linkedin.com/in/yourprofile]  
-  🐦 **Twitter**: [@yourtwitter]  
-  💬 **Discord**: [yourdiscord#1234]  
-  🌐 **Website**: [your-website.com]
+  📧 **Email**: [23seriy@gmail.com]  
+  💼 **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/sergei-olshanetski/)]  
+  🌐 **Medium**: [https://medium.com/@sergeiolshanetski]
 
 </div>
 
