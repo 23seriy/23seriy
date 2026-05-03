@@ -168,9 +168,9 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 <div align="center">
   
-  📧 **Email**: [23seriy@gmail.com]  
-  💼 **LinkedIn**: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/sergei-olshanetski/)]  
-  🌐 **Medium**: [https://medium.com/@sergeiolshanetski]
+  📧 **Email**: 23seriy@gmail.com
+  💼 **LinkedIn**: [linkedin.com/in/sergei-olshanetski](https://www.linkedin.com/in/sergei-olshanetski/)
+  🌐 **Medium**: [medium.com/@sergeiolshanetski](https://medium.com/@sergeiolshanetski)
 
 </div>
 
@@ -182,20 +182,4 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ---
 
-⭐ **From 23seriy with passion for DevOps and cloud automation**
-
-
-<!--
-**23seriy/23seriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **From Sergei Olshanetski with passion for DevOps and cloud automation**
