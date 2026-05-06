@@ -17,7 +17,7 @@
 
 I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise in building scalable, automated infrastructure solutions. I specialize in Kubernetes orchestration, CI/CD pipelines, and cloud-native architectures that power modern applications.
 
-- 🔧 **Infrastructure as Code** enthusiast with Terraform and Pulumi
+- 🔧 **Infrastructure as Code** enthusiast with Terraform
 - ☸️ **Kubernetes** architect designing resilient container orchestration
 - 🚀 **CI/CD Pipeline** builder automating everything from code to production
 - 📊 **Monitoring & Observability** expert ensuring system reliability
@@ -51,7 +51,6 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ### 🔧 Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A339C?style=flat-square&logo=pulumi&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
 - **Multi-environment** infrastructure management
@@ -79,7 +78,6 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 - **Metrics collection** and alerting strategies
 - **Distributed tracing** with Jaeger and Zipkin
 - **Log aggregation** and analysis pipelines
-- **SLI/SLO** definition and monitoring
 - **Performance optimization** and capacity planning
 
 ---
@@ -118,7 +116,6 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A339C?style=for-the-badge&logo=pulumi&logoColor=white)
 
 ### Container & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
