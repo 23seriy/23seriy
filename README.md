@@ -85,7 +85,7 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 ## 📌 What I Build
 
 - 🏗️ **Cloud-native platforms** that scale to millions of users
-- 🔄 **Automated deployment pipelines** reducing deployment time by 90%
+- 🔄 **Automated deployment pipelines** reducing deployment time by 50-60%
 - ☸️ **Kubernetes clusters** with 99.9% uptime SLA
 - 🔐 **Security-hardened infrastructure** meeting compliance standards
 - 📈 **Monitoring solutions** providing real-time insights
