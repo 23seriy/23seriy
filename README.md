@@ -99,15 +99,11 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 ## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23seriy&theme=radical&hide_border=true&background=0D1117&stroke=00ADB5&ring=00ADB5&fire=00ADB5&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23seriy&theme=radical&hide_border=true&background=0D1117&title_color=00ADB5&text_color=FFFFFF" alt="Profile Summary" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23seriy&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
