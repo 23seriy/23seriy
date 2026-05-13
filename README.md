@@ -93,19 +93,22 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ---
 
-## 📊 GitHub Stats
+[!NOTE]
+🚀 **DevOps Excellence & Cloud Innovation Hub** — Your gateway to scalable infrastructure and automation
+
+## 📊 GitHub Analytics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23seriy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23seriy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23seriy&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23seriy&theme=radical&hide_border=true&background=0D1117&stroke=00ADB5&ring=00ADB5&fire=00ADB5&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=23seriy&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=23seriy&theme=radical&hide_border=true&background=0D1117&title_color=00ADB5&text_color=FFFFFF" alt="Profile Summary" />
 </div>
 
 ---
@@ -143,21 +146,49 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 DevOps Community Impact
+
+[!IMPORTANT]
+🌟 **Building scalable DevOps solutions and sharing knowledge with the community**
+
+### 📈 Community Metrics
+- 🚀 **Infrastructure Architect** designing solutions for enterprise scale
+- 📚 **Knowledge Sharer** through Medium articles and open-source contributions
+- 🔧 **Automation Advocate** promoting DevOps best practices
+- ☸️ **Kubernetes Champion** driving container orchestration adoption
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23seriy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=23seriy&theme=radical&no-frame=true&no_bg=true&margin-w=4&background=0D1117&title_color=00ADB5&text_color=FFFFFF" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 🤝 Let's Work Together
+## 📂 Featured Projects & Resources
 
-- 💼 **Open to** DevOps consulting, cloud architecture projects, and infrastructure automation
-- 🧑‍🤝‍🧑 **Team player** who can lead DevOps transformations or work as a hands-on engineer
-- 🚀 **Specialized** in Kubernetes orchestration and multi-cloud infrastructure
-- 📚 **Always sharing** knowledge through blog posts and open-source contributions
-- ⭐ **If you like my work**, don't forget to star my repositories and follow for more DevOps content!
+### 🌟 Key Repositories
+- **[devops-ai-workflows](https://github.com/23seriy/devops-ai-workflows)** - AI-powered DevOps automation workflows
+- **[itc-dspm-onprem-deployment](https://github.com/23seriy/itc-dspm-onprem-deployment)** - Go-based DSPM deployment service
+- **[istio-in-action](https://github.com/23seriy/istio-in-action)** - Service mesh implementation examples
+
+### 📚 Learning Resources
+- 🌐 **[Medium Articles](https://medium.com/@sergeiolshanetski)** - Deep dives into DevOps practices
+- 🔧 **[GitHub Projects](https://github.com/23seriy)** - Hands-on infrastructure code examples
+- 📖 **[Technical Blog](https://medium.com/@sergeiolshanetski)** - Cloud architecture guides
+
+---
+
+## 🤝 Let's Build Together
+
+[!TIP]
+**Open to collaboration on challenging DevOps and cloud infrastructure projects**
+
+- 💼 **DevOps Consulting** - Transform your infrastructure with automation
+- 🚀 **Cloud Architecture** - Design scalable multi-cloud solutions
+- ☸️ **Kubernetes Orchestration** - Build resilient container platforms
+- � **CI/CD Pipeline Design** - Optimize your deployment workflows
+- 📚 **Knowledge Sharing** - Workshops, articles, and open-source contributions
+
+🎯 **Let's create something amazing! Feel free to reach out for collaborations or consulting opportunities.**
 
 ---
 
@@ -174,9 +205,15 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5&labelColor=0D1117&logoColor=white" alt="Profile Views" />
 </div>
 
 ---
 
-⭐ **From Sergei Olshanetski with passion for DevOps and cloud automation**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&background=0D1117&stroke=00ADB5&text_color=FFFFFF" alt="Random Quote" />
+</div>
+
+---
+
+⭐ **From Sergei Olshanetski with passion for DevOps excellence and cloud innovation**
