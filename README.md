@@ -158,7 +158,7 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 - ☸️ **Kubernetes Champion** driving container orchestration adoption
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23seriy&theme=radical&no-frame=true&no_bg=true&margin-w=4&background=0D1117&title_color=00ADB5&text_color=FFFFFF" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=23seriy&theme=radical&no-frame=true&no_bg=true&margin-w=4&background=0D1117&title_color=00ADB5&text_color=FFFFFF&exclude=LongTimeUser,Experience,Commits,Stars,Followers,PullRequest,Repositories,Issues,Reviews" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -167,13 +167,12 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ### 🌟 Key Repositories
 - **[devops-ai-workflows](https://github.com/23seriy/devops-ai-workflows)** - AI-powered DevOps automation workflows
-- **[itc-dspm-onprem-deployment](https://github.com/23seriy/itc-dspm-onprem-deployment)** - Go-based DSPM deployment service
+- **[keda](https://github.com/23seriy/keda)** - Kubernetes Event-driven Autoscaling
 - **[istio-in-action](https://github.com/23seriy/istio-in-action)** - Service mesh implementation examples
 
 ### 📚 Learning Resources
 - 🌐 **[Medium Articles](https://medium.com/@sergeiolshanetski)** - Deep dives into DevOps practices
-- 🔧 **[GitHub Projects](https://github.com/23seriy)** - Hands-on infrastructure code examples
-- 📖 **[Technical Blog](https://medium.com/@sergeiolshanetski)** - Cloud architecture guides
+- 🔧 **[GitHub Projects](https://github.com/23seriy?tab=repositories)** - Hands-on infrastructure code examples
 
 ---
 
