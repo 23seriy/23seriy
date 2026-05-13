@@ -100,7 +100,6 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF&icon_color=00ADB5" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23seriy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ADB5&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -157,9 +156,6 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 - 🔧 **Automation Advocate** promoting DevOps best practices
 - ☸️ **Kubernetes Champion** driving container orchestration adoption
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23seriy&theme=radical&no-frame=true&no_bg=true&margin-w=4&background=0D1117&title_color=00ADB5&text_color=FFFFFF&exclude=LongTimeUser,Experience,Commits,Stars,Followers,PullRequest,Repositories,Issues,Reviews" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -167,7 +163,7 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ### 🌟 Key Repositories
 - **[devops-ai-workflows](https://github.com/23seriy/devops-ai-workflows)** - AI-powered DevOps automation workflows
-- **[keda](https://github.com/23seriy/keda)** - Kubernetes Event-driven Autoscaling
+- **[keda-in-action](https://github.com/23seriy/keda-in-action)** - Kubernetes Event-driven Autoscaling
 - **[istio-in-action](https://github.com/23seriy/istio-in-action)** - Service mesh implementation examples
 
 ### 📚 Learning Resources
