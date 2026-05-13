@@ -93,20 +93,12 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ---
 
+[!NOTE]
+🚀 **DevOps Excellence & Cloud Innovation Hub** — Your gateway to scalable infrastructure and automation
+
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23seriy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23seriy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=23seriy&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
@@ -143,21 +135,45 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 DevOps Community Impact
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23seriy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+[!IMPORTANT]
+🌟 **Building scalable DevOps solutions and sharing knowledge with the community**
+
+### 📈 Community Metrics
+- 🚀 **Infrastructure Architect** designing solutions for enterprise scale
+- 📚 **Knowledge Sharer** through Medium articles and open-source contributions
+- 🔧 **Automation Advocate** promoting DevOps best practices
+- ☸️ **Kubernetes Champion** driving container orchestration adoption
+
 
 ---
 
-## 🤝 Let's Work Together
+## 📂 Featured Projects & Resources
 
-- 💼 **Open to** DevOps consulting, cloud architecture projects, and infrastructure automation
-- 🧑‍🤝‍🧑 **Team player** who can lead DevOps transformations or work as a hands-on engineer
-- 🚀 **Specialized** in Kubernetes orchestration and multi-cloud infrastructure
-- 📚 **Always sharing** knowledge through blog posts and open-source contributions
-- ⭐ **If you like my work**, don't forget to star my repositories and follow for more DevOps content!
+### 🌟 Key Repositories
+- **[devops-ai-workflows](https://github.com/23seriy/devops-ai-workflows)** - AI-powered DevOps automation workflows
+- **[keda-in-action](https://github.com/23seriy/keda-in-action)** - Kubernetes Event-driven Autoscaling
+- **[istio-in-action](https://github.com/23seriy/istio-in-action)** - Service mesh implementation examples
+
+### 📚 Learning Resources
+- 🌐 **[Medium Articles](https://medium.com/@sergeiolshanetski)** - Deep dives into DevOps practices
+- 🔧 **[GitHub Projects](https://github.com/23seriy?tab=repositories)** - Hands-on infrastructure code examples
+
+---
+
+## 🤝 Let's Build Together
+
+[!TIP]
+**Open to collaboration on challenging DevOps and cloud infrastructure projects**
+
+- 💼 **DevOps Consulting** - Transform your infrastructure with automation
+- 🚀 **Cloud Architecture** - Design scalable multi-cloud solutions
+- ☸️ **Kubernetes Orchestration** - Build resilient container platforms
+- � **CI/CD Pipeline Design** - Optimize your deployment workflows
+- 📚 **Knowledge Sharing** - Workshops, articles, and open-source contributions
+
+🎯 **Let's create something amazing! Feel free to reach out for collaborations or consulting opportunities.**
 
 ---
 
@@ -174,9 +190,15 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5&labelColor=0D1117&logoColor=white" alt="Profile Views" />
 </div>
 
 ---
 
-⭐ **From Sergei Olshanetski with passion for DevOps and cloud automation**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&background=0D1117&stroke=00ADB5&text_color=FFFFFF" alt="Random Quote" />
+</div>
+
+---
+
+⭐ **From Sergei Olshanetski with passion for DevOps excellence and cloud innovation**
