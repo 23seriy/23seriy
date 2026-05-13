@@ -96,15 +96,9 @@ I'm a passionate **DevOps Engineer** and **Cloud Architect** with deep expertise
 [!NOTE]
 🚀 **DevOps Excellence & Cloud Innovation Hub** — Your gateway to scalable infrastructure and automation
 
-## 📊 GitHub Analytics & Performance
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23seriy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
