@@ -85,6 +85,10 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=23seriy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
+
 ---
 
 ## � Featured Projects
@@ -134,6 +138,14 @@ Each project includes a full Medium article walkthrough, automation scripts, and
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5&labelColor=0D1117&logoColor=white" alt="Profile Views" />
 </div>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/23seriy/23seriy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/23seriy/23seriy/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/23seriy/23seriy/output/github-snake.svg" width="800" />
+  </picture>
+</p>
 
 ---
 
