@@ -22,8 +22,8 @@ DevOps Engineer and Cloud Architect building scalable, automated infrastructure.
 - 🔧 **Infrastructure as Code** — Terraform multi-environment management
 - ☸️ **Kubernetes** — Cluster architecture, service mesh, eBPF networking
 - 🚀 **CI/CD Pipelines** — Jenkins shared libraries, GitHub Actions, GitOps
-- � **Zero-Trust Security** — Network policies, L7 filtering, egress control
-- � **Observability** — Prometheus, Grafana, distributed tracing, Hubble
+- 🔒 **Zero-Trust Security** — Network policies, L7 filtering, egress control
+- 📊 **Observability** — Prometheus, Grafana, distributed tracing, Hubble
 - 🌱 **Always shipping** — hands-on demos with every article I publish
 
 ---
@@ -73,7 +73,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## 📌 What I Build
 
 - 🐝 **Zero-trust Kubernetes networking** with eBPF — [CILIUM-in-action](https://github.com/23seriy/CILIUM-in-action)
-- � **Progressive delivery pipelines** with canary analysis — [ARGO-ROLLOUTS-in-action](https://github.com/23seriy/ARGO-ROLLOUTS-in-action)
+- 🚀 **Progressive delivery pipelines** with canary analysis — [ARGO-ROLLOUTS-in-action](https://github.com/23seriy/ARGO-ROLLOUTS-in-action)
 - 🌐 **Service mesh security** with mTLS and traffic splitting — [ISTIO-in-action](https://github.com/23seriy/ISTIO-in-action)
 - ☁️ **Kubernetes-native cloud provisioning** with Crossplane — [CROSSPLANE-in-action](https://github.com/23seriy/CROSSPLANE-in-action)
 - 📈 **Event-driven autoscaling** with scale-to-zero — [KEDA-in-action](https://github.com/23seriy/KEDA-in-action)
@@ -85,24 +85,26 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/23seriy)
+
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=23seriy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </p>
 
 ---
 
-## � Featured Projects
+## 📂 Featured Projects
 
 Each project includes a full Medium article walkthrough, automation scripts, and a working demo you can run locally on Minikube.
 
-| Project | What It Demonstrates |
-|---|---|
-| **[CILIUM-in-action](https://github.com/23seriy/CILIUM-in-action)** | eBPF networking, L7 HTTP policies, kube-proxy replacement, Hubble observability |
-| **[ARGO-ROLLOUTS-in-action](https://github.com/23seriy/ARGO-ROLLOUTS-in-action)** | Canary deployments, blue-green rollouts, automated analysis |
-| **[ISTIO-in-action](https://github.com/23seriy/ISTIO-in-action)** | Traffic splitting, fault injection, circuit breaking, mTLS |
-| **[CROSSPLANE-in-action](https://github.com/23seriy/CROSSPLANE-in-action)** | Kubernetes CRDs provisioning AWS resources (S3) via Compositions |
-| **[KEDA-in-action](https://github.com/23seriy/KEDA-in-action)** | Event-driven autoscaling, Redis/RabbitMQ scalers, scale-to-zero |
-| **[devops-ai-workflows](https://github.com/23seriy/devops-ai-workflows)** | AI-agent workflows for K8s debugging, AWS audits, Terraform reviews |
+| Project | What It Demonstrates | Article |
+|---|---|---|
+| **[CILIUM-in-action](https://github.com/23seriy/CILIUM-in-action)** | eBPF networking, L7 HTTP policies, kube-proxy replacement, Hubble observability | [Read on Medium](https://medium.com/@sergeiolshanetski/cilium-in-action-ebpf-powered-networking-security-and-observability-for-kubernetes-without-9a0decd90b74) |
+| **[ARGO-ROLLOUTS-in-action](https://github.com/23seriy/ARGO-ROLLOUTS-in-action)** | Canary deployments, blue-green rollouts, automated analysis | [Read on Medium](https://medium.com/@sergeiolshanetski/argo-rollouts-in-action-progressive-delivery-with-canary-blue-green-and-automated-analysis-on-625f7fe9b61a) |
+| **[ISTIO-in-action](https://github.com/23seriy/ISTIO-in-action)** | Traffic splitting, fault injection, circuit breaking, mTLS | [Read on Medium](https://medium.com/@sergeiolshanetski/istio-in-action-a-hands-on-guide-to-service-mesh-on-your-laptop-e5ccac34262e) |
+| **[CROSSPLANE-in-action](https://github.com/23seriy/CROSSPLANE-in-action)** | Kubernetes CRDs provisioning AWS resources (S3) via Compositions | [Read on Medium](https://medium.com/@sergeiolshanetski/crossplane-in-action-provisioning-aws-resources-from-kubernetes-on-your-laptop-692d3aa35c6a) |
+| **[KEDA-in-action](https://github.com/23seriy/KEDA-in-action)** | Event-driven autoscaling, Redis/RabbitMQ scalers, scale-to-zero | [Read on Medium](https://medium.com/@sergeiolshanetski/keda-in-action-building-event-driven-autoscaling-demos-with-kubernetes-redis-rabbitmq-and-an-06f7dd7bd70c) |
+| **[devops-ai-workflows](https://github.com/23seriy/devops-ai-workflows)** | AI-agent workflows for K8s debugging, AWS audits, Terraform reviews | — |
 
 ### 📚 Articles & Resources
 - 🌐 **[Medium](https://medium.com/@sergeiolshanetski)** — In-depth DevOps guides with every project above
