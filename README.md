@@ -137,6 +137,10 @@ Each project includes a full Medium article walkthrough, automation scripts, and
 
 ⭐ **From Sergei Olshanetski with passion for DevOps excellence and cloud innovation**
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5&labelColor=0D1117&logoColor=white" alt="Profile Views" />
+</div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/23seriy/23seriy/output/github-snake-dark.svg" />
