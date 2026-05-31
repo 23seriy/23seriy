@@ -6,6 +6,16 @@
   </a>
 </p>
 
+> 🇨🇦 Toronto-based DevOps Engineer · Building Kubernetes-native infrastructure demos, one article at a time
+
+<div align="center">
+
+📧 [23seriy@gmail.com](mailto:23seriy@gmail.com) &nbsp;|&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/sergei-olshanetski/) &nbsp;|&nbsp;
+🌐 [Medium](https://medium.com/@sergeiolshanetski)
+
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/DevOps-00ADB5?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
@@ -81,18 +91,6 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/23seriy)
-
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=23seriy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 Each project includes a full Medium article walkthrough, automation scripts, and a working demo you can run locally on Minikube.
@@ -125,21 +123,19 @@ Each project includes a full Medium article walkthrough, automation scripts, and
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
-<div align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-📧 **Email**: 23seriy@gmail.com
-💼 **LinkedIn**: [linkedin.com/in/sergei-olshanetski](https://www.linkedin.com/in/sergei-olshanetski/)
-🌐 **Medium**: [medium.com/@sergeiolshanetski](https://medium.com/@sergeiolshanetski)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/23seriy)
 
-</div>
+<p align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=23seriy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5&labelColor=0D1117&logoColor=white" alt="Profile Views" />
-</div>
+⭐ **From Sergei Olshanetski with passion for DevOps excellence and cloud innovation**
 
 <p align="center">
   <picture>
@@ -148,7 +144,3 @@ Each project includes a full Medium article walkthrough, automation scripts, and
     <img alt="github-snake" src="https://raw.githubusercontent.com/23seriy/23seriy/output/github-snake.svg" width="800" />
   </picture>
 </p>
-
----
-
-⭐ **From Sergei Olshanetski with passion for DevOps excellence and cloud innovation**
