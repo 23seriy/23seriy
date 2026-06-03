@@ -1,8 +1,8 @@
 # 👋 Hey there, I'm Sergei Olshanetski
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Architect;Kubernetes+Expert;Infrastructure+Automator" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Architect;Kubernetes+Expert;Infrastructure+Automator" alt="Typing SVG" />
   </a>
 </p>
 
@@ -83,9 +83,9 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=cyber-streakglow&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=23seriy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=23seriy&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/23seriy)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23seriy&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=23seriy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
@@ -129,8 +129,8 @@ Each project includes a full Medium article walkthrough, automation scripts, and
 
 <div align="center">
 
-📧 **Email**: 23seriy@gmail.com
-💼 **LinkedIn**: [linkedin.com/in/sergei-olshanetski](https://www.linkedin.com/in/sergei-olshanetski/)
+📧 **Email**: 23seriy@gmail.com<br>
+💼 **LinkedIn**: [linkedin.com/in/sergei-olshanetski](https://www.linkedin.com/in/sergei-olshanetski/)<br>
 🌐 **Medium**: [medium.com/@sergeiolshanetski](https://medium.com/@sergeiolshanetski)
 
 </div>
