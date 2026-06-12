@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Sergei Olshanetski
+# 👋 Hey there, I'm Sergei
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
