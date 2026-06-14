@@ -83,6 +83,12 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=23seriy&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak" />
+  </a>
+</p>
+
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23seriy&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="center">
