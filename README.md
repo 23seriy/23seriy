@@ -144,7 +144,7 @@ Each project includes a full Medium article walkthrough, automation scripts, and
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=23seriy&label=Profile%20Views&color=0&icon=0&pretty=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=23seriy&style=for-the-badge&color=00ADB5&labelColor=0D1117" alt="Profile Views" />
 </div>
 
 <p align="center">
