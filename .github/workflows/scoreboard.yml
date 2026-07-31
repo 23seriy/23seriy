@@ -1,0 +1,23 @@
+name: Update Scoreboard
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: 23seriy/readme-scoreboard@main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          BDL_API_KEY: ${{ secrets.BDL_API_KEY }}
+          SPORT: nba
+          TEAM: LAL
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet README.md || (git add README.md && git commit -m "🏀 Update NBA scoreboard" && git push)
