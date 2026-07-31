@@ -84,6 +84,22 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## 🏀 My Favourite NBA Team
 
 <!-- readme-scoreboard start -->
+<img src="https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg" width="60" align="right" />
+
+### 👑 Los Angeles Lakers (LAL)
+West Conference · Pacific Division
+
+📊 2025-2026 Record: 57W - 35L (62.0%)
+   ███████████████▌░░░░░░░░░
+
+**📅 Recent Games:**
+```
+❌ L 110-115 vs OKC (May 11)
+❌ L 108-131 vs OKC (May 9)
+❌ L 107-125 @ OKC (May 7)
+❌ L  90-108 @ OKC (May 5)
+✅ W  98-78  @ HOU (May 1)
+```
 <!-- readme-scoreboard end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
