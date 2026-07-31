@@ -81,6 +81,15 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
+## 🏀 My Favourite NBA Team
+
+<!-- readme-scoreboard start -->
+<!-- readme-scoreboard end -->
+
+<sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
