@@ -106,6 +106,21 @@ West Conference · Pacific Division
 
 ---
 
+## ⚾ My Favourite MLB Team
+
+<!-- readme-scoreboard-mlb start -->
+<img src="https://www.mlbstatic.com/team-logos/141.svg" width="60" align="right" />
+
+### 🍁 Toronto Blue Jays (TOR)
+American League · East Division
+
+_Stats will update automatically via scoreboard action._
+<!-- readme-scoreboard-mlb end -->
+
+<sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
