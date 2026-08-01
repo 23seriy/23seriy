@@ -25,8 +25,15 @@ jobs:
           TEAM: TOR
           MARKER: readme-scoreboard-mlb
 
+      - uses: 23seriy/readme-scoreboard@main
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SPORT: nhl
+          TEAM: TOR
+          MARKER: readme-scoreboard-nhl
+
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "🏀⚾ Update NBA + MLB scoreboard" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "🏀⚾🏒 Update NBA + MLB + NHL scoreboard" && git push)
