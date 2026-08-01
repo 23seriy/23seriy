@@ -131,6 +131,31 @@ American League · AL East
 
 ---
 
+## 🏒 My Favourite NHL Team
+
+<!-- readme-scoreboard-nhl start -->
+<img src="https://www.nhluniverse.com/images/logos/Toronto_Maple_Leafs_Logo_2016.svg" width="60" align="right" />
+
+### 🍁 Toronto Maple Leafs (TOR)
+Eastern Conference · Atlantic Division
+
+📊 2025-2026 Record: 29W - 28L (50.9%)
+   ████████████▌░░░░░░░░░░░░
+
+**📅 Recent Games:**
+```
+✅ W  4-3  vs OTT (Nov 15)
+❌ L  2-3  @ MTL (Nov 13)
+✅ W  5-2  vs BOS (Nov 11)
+❌ L  1-4  @ BOS (Nov 9)
+✅ W  3-2  vs TB  (Nov 7)
+```
+<!-- readme-scoreboard-nhl end -->
+
+<sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
