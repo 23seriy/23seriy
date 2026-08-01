@@ -89,9 +89,6 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ### 👑 Los Angeles Lakers (LAL)
 West Conference · Pacific Division
 
-📊 2025-2026 Record: 57W - 35L (62.0%)
-   ███████████████▌░░░░░░░░░
-
 **📅 Recent Games:**
 ```
 ❌ L 110-115 vs OKC (May 11)
