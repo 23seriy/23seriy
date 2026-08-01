@@ -12,25 +12,25 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: 23seriy/readme-scoreboard@main
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BDL_API_KEY: ${{ secrets.BDL_API_KEY }}
-          SPORT: nba
-          TEAM: LAL
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          api_key: ${{ secrets.BDL_API_KEY }}
+          sport: nba
+          team: LAL
 
       - uses: 23seriy/readme-scoreboard@main
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SPORT: mlb
-          TEAM: TOR
-          MARKER: readme-scoreboard-mlb
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          sport: mlb
+          team: TOR
+          marker: readme-scoreboard-mlb
 
       - uses: 23seriy/readme-scoreboard@main
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SPORT: nhl
-          TEAM: TOR
-          MARKER: readme-scoreboard-nhl
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          sport: nhl
+          team: TOR
+          marker: readme-scoreboard-nhl
 
       - name: Commit and push if changed
         run: |
