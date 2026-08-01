@@ -89,6 +89,9 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ### 👑 Los Angeles Lakers (LAL)
 West Conference · Pacific Division
 
+📊 2025-2026 Record: 57W - 35L (62.0%)
+   ███████████████▌░░░░░░░░░
+
 **📅 Recent Games:**
 ```
 ❌ L 110-115 vs OKC (May 11)
@@ -111,16 +114,16 @@ West Conference · Pacific Division
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
 
-📊 2026 Record: 104W - 107L (49.3%)
-   ████████████▎░░░░░░░░░░░░
+📊 2026 Record: 104W - 105L (49.8%)
+   ████████████▍░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
-❌ L  0-0  @ CHC (Aug 6)
 ✅ W  3-1  vs STL (Jul 31)
 ✅ W  5-2  @ WSH (Jul 29)
 ❌ L  6-8  @ WSH (Jul 28)
 ✅ W  3-2  @ WSH (Jul 27)
+❌ L  1-6  @ BOS (Jul 26)
 ```
 <!-- readme-scoreboard-mlb end -->
 
