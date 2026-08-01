@@ -114,16 +114,16 @@ West Conference · Pacific Division
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
 
-📊 2026 Record: 50W - 59L (45.9%)
-   ███████████▍░░░░░░░░░░░░░
+📊 2026 Record: 51W - 59L (46.4%)
+   ███████████▌░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W  3-1  vs STL (Jul 31)
 ✅ W  5-2  @ WSH (Jul 29)
 ❌ L  6-8  @ WSH (Jul 28)
 ✅ W  3-2  @ WSH (Jul 27)
 ❌ L  1-6  @ BOS (Jul 26)
-✅ W  6-0  @ BOS (Jul 25)
 ```
 <!-- readme-scoreboard-mlb end -->
 
