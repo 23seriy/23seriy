@@ -139,7 +139,17 @@ American League · AL East
 ### 🍁 Toronto Maple Leafs (TOR)
  Conference ·  Division
 
-📅 No recent games found
+📊 2025-2026 Record: 63W - 38L (62.4%)
+   ███████████████▌░░░░░░░░░
+
+**📅 Recent Games:**
+```
+❌ L   1-6   vs FLA (May 18)
+✅ W   2-0   @ FLA (May 17)
+❌ L   1-6   vs FLA (May 14)
+❌ L   0-2   @ FLA (May 11)
+❌ L   4-5   @ FLA (May 9)
+```
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
