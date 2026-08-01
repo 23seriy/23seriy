@@ -114,16 +114,16 @@ West Conference · Pacific Division
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
 
-📊 2026 Record: 51W - 59L (46.4%)
-   ███████████▌░░░░░░░░░░░░░
+📊 2026 Record: 104W - 107L (49.3%)
+   ████████████▎░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+❌ L  0-0  @ CHC (Aug 6)
 ✅ W  3-1  vs STL (Jul 31)
 ✅ W  5-2  @ WSH (Jul 29)
 ❌ L  6-8  @ WSH (Jul 28)
 ✅ W  3-2  @ WSH (Jul 27)
-❌ L  1-6  @ BOS (Jul 26)
 ```
 <!-- readme-scoreboard-mlb end -->
 
@@ -134,22 +134,12 @@ American League · AL East
 ## 🏒 My Favourite NHL Team
 
 <!-- readme-scoreboard-nhl start -->
-<img src="https://www.nhluniverse.com/images/logos/Toronto_Maple_Leafs_Logo_2016.svg" width="60" align="right" />
+<img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" width="60" align="right" />
 
 ### 🍁 Toronto Maple Leafs (TOR)
-Eastern Conference · Atlantic Division
+ Conference ·  Division
 
-📊 2025-2026 Record: 29W - 28L (50.9%)
-   ████████████▌░░░░░░░░░░░░
-
-**📅 Recent Games:**
-```
-✅ W  4-3  vs OTT (Nov 15)
-❌ L  2-3  @ MTL (Nov 13)
-✅ W  5-2  vs BOS (Nov 11)
-❌ L  1-4  @ BOS (Nov 9)
-✅ W  3-2  vs TB  (Nov 7)
-```
+📅 No recent games found
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
