@@ -88,17 +88,18 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ### 👑 Los Angeles Lakers (LAL)
 West Conference · Pacific Division
+⚪ Off-season · Next season starts October
 
 📊 2025-2026 Record: 57W - 35L (62.0%)
    ███████████████▌░░░░░░░░░
 
 **📅 Recent Games:**
 ```
-❌ L 110-115 vs OKC (May 11)
-❌ L 108-131 vs OKC (May 9)
-❌ L 107-125 @ OKC (May 7)
-❌ L  90-108 @ OKC (May 5)
-✅ W  98-78  @ HOU (May 1)
+❌ L 110-115 vs OKC (May 11, 2026)
+❌ L 108-131 vs OKC (May 9, 2026)
+❌ L 107-125 @ OKC (May 7, 2026)
+❌ L  90-108 @ OKC (May 5, 2026)
+✅ W  98-78  @ HOU (May 1, 2026)
 ```
 <!-- readme-scoreboard end -->
 
@@ -113,17 +114,18 @@ West Conference · Pacific Division
 
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
+🟢 Season in progress
 
 📊 2026 Record: 52W - 59L (46.8%)
    ███████████▋░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
-✅ W  5-1  vs STL (Aug 1)
-✅ W  3-1  vs STL (Jul 31)
-✅ W  5-2  @ WSH (Jul 29)
-❌ L  6-8  @ WSH (Jul 28)
-✅ W  3-2  @ WSH (Jul 27)
+✅ W  5-1  vs STL (Aug 1, 2026)
+✅ W  3-1  vs STL (Jul 31, 2026)
+✅ W  5-2  @ WSH (Jul 29, 2026)
+❌ L  6-8  @ WSH (Jul 28, 2026)
+✅ W  3-2  @ WSH (Jul 27, 2026)
 ```
 <!-- readme-scoreboard-mlb end -->
 
@@ -138,17 +140,18 @@ American League · AL East
 
 ### 🍁 Toronto Maple Leafs (TOR)
 Eastern Conference · Atlantic Division
+⚪ Off-season · Next season starts October
 
 📊 2025-2026 Record: 32W - 50L (39.0%)
    █████████▊░░░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
-❌ L   1-3   @ OTT (Apr 15)
-❌ L   5-6   vs DAL (Apr 13)
-❌ L   2-6   vs FLA (Apr 11)
-❌ L   3-5   @ NYI (Apr 9)
-❌ L   0-4   vs WSH (Apr 8)
+❌ L   1-3   @ OTT (Apr 15, 2026)
+❌ L   5-6   vs DAL (Apr 13, 2026)
+❌ L   2-6   vs FLA (Apr 11, 2026)
+❌ L   3-5   @ NYI (Apr 9, 2026)
+❌ L   0-4   vs WSH (Apr 8, 2026)
 ```
 <!-- readme-scoreboard-nhl end -->
 
