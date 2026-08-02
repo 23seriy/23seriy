@@ -137,10 +137,10 @@ American League · AL East
 <img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" width="60" align="right" />
 
 ### 🍁 Toronto Maple Leafs (TOR)
- Conference ·  Division
+Eastern Conference · Atlantic Division
 
-📊 2025-2026 Record: 63W - 38L (62.4%)
-   ███████████████▌░░░░░░░░░
+📊 2024-2025 Record: 52W - 30L (63.4%)
+   ███████████████▊░░░░░░░░░
 
 **📅 Recent Games:**
 ```
