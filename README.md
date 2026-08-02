@@ -95,11 +95,11 @@ West Conference · Pacific Division
 
 **📅 Recent Games:**
 ```
-❌ L 110-115 vs OKC (May 11, 2026)
-❌ L 108-131 vs OKC (May 9, 2026)
-❌ L 107-125 @ OKC (May 7, 2026)
-❌ L  90-108 @ OKC (May 5, 2026)
-✅ W  98-78  @ HOU (May 1, 2026)
+❌ L 110-115 vs OKC (May 11, 2026) [Playoffs]
+❌ L 108-131 vs OKC (May 9, 2026) [Playoffs]
+❌ L 107-125 @ OKC (May 7, 2026) [Playoffs]
+❌ L  90-108 @ OKC (May 5, 2026) [Playoffs]
+✅ W  98-78  @ HOU (May 1, 2026) [Playoffs]
 ```
 <!-- readme-scoreboard end -->
 
