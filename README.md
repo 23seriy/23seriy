@@ -170,10 +170,10 @@ AFC · AFC East
 
 **📅 Recent Games:**
 ```
-❌ L 13-29 vs SEA (Feb 8, 2026)
-✅ W 10-7  @ DEN (Jan 25, 2026)
-✅ W 28-16 vs HOU (Jan 18, 2026)
-✅ W 16-3  vs LAC (Jan 12, 2026)
+❌ L 13-29 vs SEA (Feb 8, 2026) [Playoffs]
+✅ W 10-7  @ DEN (Jan 25, 2026) [Playoffs]
+✅ W 28-16 vs HOU (Jan 18, 2026) [Playoffs]
+✅ W 16-3  vs LAC (Jan 12, 2026) [Playoffs]
 ✅ W 38-10 vs MIA (Jan 4, 2026)
 ```
 <!-- readme-scoreboard-nfl end -->
