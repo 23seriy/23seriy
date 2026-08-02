@@ -162,6 +162,13 @@ Eastern Conference · Atlantic Division
 ## 🏈 My Favourite NFL Team
 
 <!-- readme-scoreboard-nfl start -->
+<img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" width="60" align="right" />
+
+### 😈 New England Patriots (NE)
+Unknown · Unknown
+🔴 Off-season · Next season starts September 2026
+
+📅 No recent games found
 <!-- readme-scoreboard-nfl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
