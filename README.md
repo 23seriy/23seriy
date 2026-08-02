@@ -165,10 +165,17 @@ Eastern Conference · Atlantic Division
 <img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" width="60" align="right" />
 
 ### 😈 New England Patriots (NE)
-Unknown · Unknown
+AFC · AFC East
 🔴 Off-season · Next season starts September 2026
 
-📅 No recent games found
+**📅 Recent Games:**
+```
+❌ L 13-29 vs SEA (Feb 8, 2026)
+✅ W 10-7  @ DEN (Jan 25, 2026)
+✅ W 28-16 vs HOU (Jan 18, 2026)
+✅ W 16-3  vs LAC (Jan 12, 2026)
+✅ W 38-10 vs MIA (Jan 4, 2026)
+```
 <!-- readme-scoreboard-nfl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
