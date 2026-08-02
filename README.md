@@ -159,6 +159,15 @@ Eastern Conference · Atlantic Division
 
 ---
 
+## 🏈 My Favourite NFL Team
+
+<!-- readme-scoreboard-nfl start -->
+<!-- readme-scoreboard-nfl end -->
+
+<sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
