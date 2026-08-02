@@ -114,8 +114,8 @@ West Conference · Pacific Division
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
 
-📊 2026 Record: 48W - 58L (45.3%)
-   ███████████▎░░░░░░░░░░░░░
+📊 2026 Record: 52W - 59L (46.8%)
+   ███████████▋░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
@@ -139,16 +139,16 @@ American League · AL East
 ### 🍁 Toronto Maple Leafs (TOR)
 Eastern Conference · Atlantic Division
 
-📊 2024-2025 Record: 52W - 30L (63.4%)
-   ███████████████▊░░░░░░░░░
+📊 2025-2026 Record: 32W - 50L (39.0%)
+   █████████▊░░░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
-❌ L   1-6   vs FLA (May 18)
-✅ W   2-0   @ FLA (May 17)
-❌ L   1-6   vs FLA (May 14)
-❌ L   0-2   @ FLA (May 11)
-❌ L   4-5   @ FLA (May 9)
+❌ L   1-3   @ OTT (Apr 15)
+❌ L   5-6   vs DAL (Apr 13)
+❌ L   2-6   vs FLA (Apr 11)
+❌ L   3-5   @ NYI (Apr 9)
+❌ L   0-4   vs WSH (Apr 8)
 ```
 <!-- readme-scoreboard-nhl end -->
 
