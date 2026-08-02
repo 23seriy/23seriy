@@ -88,7 +88,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ### 👑 Los Angeles Lakers (LAL)
 West Conference · Pacific Division
-⚪ Off-season · Next season starts October
+🔴 Off-season · Next season starts October 2026
 
 📊 2025-2026 Record: 57W - 35L (62.0%)
    ███████████████▌░░░░░░░░░
@@ -140,7 +140,7 @@ American League · AL East
 
 ### 🍁 Toronto Maple Leafs (TOR)
 Eastern Conference · Atlantic Division
-⚪ Off-season · Next season starts October
+🔴 Off-season · Next season starts October 2026
 
 📊 2025-2026 Record: 32W - 50L (39.0%)
    █████████▊░░░░░░░░░░░░░░░
