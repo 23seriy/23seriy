@@ -182,6 +182,15 @@ AFC · AFC East
 
 ---
 
+## ⚽ My Favourite MLS Team
+
+<!-- readme-scoreboard-mls start -->
+<!-- readme-scoreboard-mls end -->
+
+<sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
