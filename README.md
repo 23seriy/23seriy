@@ -185,10 +185,10 @@ AFC · AFC East
 ## ⚽ My Favourite MLS Team
 
 <!-- readme-scoreboard-mls start -->
-<img src="https://a.espncdn.com/i/teamlogos/soccer/20232/scoreboard.png" width="60" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/soccer/500/20232.png" width="60" align="right" />
 
 ### 🦩 Inter Miami CF (MIA)
-Eastern Conference Conference
+Eastern Conference
 🟢 Season in progress
 
 📊 2026 Record: 11W - 2L - 5D  (38 pts)
