@@ -1,7 +1,7 @@
 name: Update Scoreboard
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -39,8 +39,15 @@ jobs:
           team: NE
           marker: readme-scoreboard-nfl
 
+      - uses: 23seriy/readme-scoreboard@main
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          sport: mls
+          team: LAFC
+          marker: readme-scoreboard-mls
+
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "🏀⚾🏒🏈 Update NBA + MLB + NHL + NFL scoreboard" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "🏀⚾🏒🏈⚽ Update NBA + MLB + NHL + NFL + MLS scoreboard" && git push)
