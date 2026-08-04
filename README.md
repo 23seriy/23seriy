@@ -116,16 +116,16 @@ West Conference · Pacific Division
 American League · AL East
 🟢 Season in progress
 
-📊 2026 Record: 52W - 60L (46.4%)
-   ███████████▌░░░░░░░░░░░░░
+📊 2026 Record: 53W - 60L (46.9%)
+   ███████████▋░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W  3-1  @ HOU (Aug 3, 2026)
 ❌ L  1-5  vs STL (Aug 2, 2026)
 ✅ W  5-1  vs STL (Aug 1, 2026)
 ✅ W  3-1  vs STL (Jul 31, 2026)
 ✅ W  5-2  @ WSH (Jul 29, 2026)
-❌ L  6-8  @ WSH (Jul 28, 2026)
 ```
 <!-- readme-scoreboard-mlb end -->
 
@@ -185,6 +185,23 @@ AFC · AFC East
 ## ⚽ My Favourite MLS Team
 
 <!-- readme-scoreboard-mls start -->
+<img src="https://a.espncdn.com/i/teamlogos/soccer/20232/scoreboard.png" width="60" align="right" />
+
+### 🦩 Inter Miami CF (MIA)
+Eastern Conference Conference
+🟢 Season in progress
+
+📊 2026 Record: 11W - 2L - 5D  (38 pts)
+   ██████████████████▊░░░░░░
+
+**📅 Recent Games:**
+```
+🟡 D 2-2 vs CLB   (Aug 2, 2026)
+✅ W 1-0 @ MTL   (Jul 25, 2026)
+✅ W 3-2 vs CHI   (Jul 22, 2026)
+✅ W 6-4 vs PHI   (May 24, 2026)
+✅ W 2-0 vs POR   (May 17, 2026)
+```
 <!-- readme-scoreboard-mls end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
