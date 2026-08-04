@@ -43,7 +43,7 @@ jobs:
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
           sport: mls
-          team: LAFC
+          team: MIA
           marker: readme-scoreboard-mls
 
       - name: Commit and push if changed
