@@ -90,7 +90,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
 
-📊 2025-2026 Record: 50W - 32L (61.0%)
+📊 2024-2025 Record: 50W - 32L (61.0%)
    ███████████████▎░░░░░░░░░
 
 **📅 Recent Games:**
@@ -142,7 +142,7 @@ American League · AL East
 Eastern Conference · Atlantic Division
 🔴 Off-season · Next season starts October 2026
 
-📊 2025-2026 Record: 32W - 50L (39.0%)
+📊 2024-2025 Record: 32W - 50L (39.0%)
    █████████▊░░░░░░░░░░░░░░░
 
 **📅 Recent Games:**
