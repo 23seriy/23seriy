@@ -14,7 +14,6 @@ jobs:
       - uses: 23seriy/readme-scoreboard@main
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
-          api_key: ${{ secrets.BDL_API_KEY }}
           sport: nba
           team: LAL
 
