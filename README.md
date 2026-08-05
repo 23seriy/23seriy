@@ -87,19 +87,19 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 <img src="https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg" width="60" align="right" />
 
 ### 👑 Los Angeles Lakers (LAL)
-West Conference · Pacific Division
+Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
 
-📊 2025-2026 Record: 57W - 35L (62.0%)
-   ███████████████▌░░░░░░░░░
+📊 2025-2026 Record: 50W - 32L (61.0%)
+   ███████████████▎░░░░░░░░░
 
 **📅 Recent Games:**
 ```
-❌ L 110-115 vs OKC (May 11, 2026) [Playoffs]
-❌ L 108-131 vs OKC (May 9, 2026) [Playoffs]
-❌ L 107-125 @ OKC (May 7, 2026) [Playoffs]
-❌ L  90-108 @ OKC (May 5, 2026) [Playoffs]
-✅ W  98-78  @ HOU (May 1, 2026) [Playoffs]
+❌ L  96-103 vs MIN (May 1, 2025) [Playoffs]
+❌ L 113-116 @ MIN (Apr 27, 2025) [Playoffs]
+❌ L 104-116 @ MIN (Apr 26, 2025) [Playoffs]
+✅ W  94-85  vs MIN (Apr 23, 2025) [Playoffs]
+❌ L  95-117 vs MIN (Apr 20, 2025) [Playoffs]
 ```
 <!-- readme-scoreboard end -->
 
