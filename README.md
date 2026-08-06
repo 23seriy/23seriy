@@ -136,7 +136,7 @@ American League · AL East
 ## 🏒 My Favourite NHL Team
 
 <!-- readme-scoreboard-nhl start -->
-<img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" width="60" align="right" />
+<img src="https://assets.nhle.com/logos/nhl/svg/TOR.svg" width="60" align="right" />
 
 ### 🍁 Toronto Maple Leafs (TOR)
 Eastern Conference · Atlantic Division
