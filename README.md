@@ -90,16 +90,16 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
 
-📊 2024-2025 Record: 50W - 32L (61.0%)
-   ███████████████▎░░░░░░░░░
+📊 2025-2026 Record: 53W - 29L (64.6%)
+   ████████████████▏░░░░░░░░
 
 **📅 Recent Games:**
 ```
-❌ L  96-103 vs MIN (May 1, 2025) [Playoffs]
-❌ L 113-116 @ MIN (Apr 27, 2025) [Playoffs]
-❌ L 104-116 @ MIN (Apr 26, 2025) [Playoffs]
-✅ W  94-85  vs MIN (Apr 23, 2025) [Playoffs]
-❌ L  95-117 vs MIN (Apr 20, 2025) [Playoffs]
+❌ L 110-115 vs OKC (May 12, 2026) [Playoffs]
+❌ L 108-131 vs OKC (May 10, 2026) [Playoffs]
+❌ L 107-125 @ OKC (May 8, 2026) [Playoffs]
+❌ L  90-108 @ OKC (May 6, 2026) [Playoffs]
+✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
 ```
 <!-- readme-scoreboard end -->
 
