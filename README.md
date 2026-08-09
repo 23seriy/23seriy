@@ -116,16 +116,16 @@ Western Conference · Pacific Division
 American League · AL East
 🟢 Season in progress
 
-📊 2026 Record: 55W - 62L (47.0%)
-   ███████████▊░░░░░░░░░░░░░
+📊 2026 Record: 56W - 62L (47.5%)
+   ███████████▉░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W  7-5  @ PHI (Aug 8, 2026)
 ✅ W  5-4  @ PHI (Aug 7, 2026)
 ❌ L  2-3  @ CHC (Aug 6, 2026)
 ✅ W  5-4  @ HOU (Aug 5, 2026)
 ❌ L  2-7  @ HOU (Aug 4, 2026)
-✅ W  3-1  @ HOU (Aug 3, 2026)
 ```
 <!-- readme-scoreboard-mlb end -->
 
