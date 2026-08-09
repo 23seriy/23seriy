@@ -84,7 +84,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## 🏀 My Favourite NBA Team
 
 <!-- readme-scoreboard start -->
-<img src="https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg" width="60" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" width="60" align="right" />
 
 ### 👑 Los Angeles Lakers (LAL)
 Western Conference · Pacific Division
@@ -110,7 +110,7 @@ Western Conference · Pacific Division
 ## ⚾ My Favourite MLB Team
 
 <!-- readme-scoreboard-mlb start -->
-<img src="https://www.mlbstatic.com/team-logos/141.svg" width="60" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" width="60" align="right" />
 
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
