@@ -81,7 +81,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
-## 🏀 My Favourite NBA Team
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="28" align="top"></picture> My Favourite NBA Team
 
 <!-- readme-scoreboard start -->
 <img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" width="60" align="right" />
@@ -107,7 +107,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
-## ⚾ My Favourite MLB Team
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="28" align="top"></picture> My Favourite MLB Team
 
 <!-- readme-scoreboard-mlb start -->
 <img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" width="60" align="right" />
@@ -133,7 +133,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
-## 🏒 My Favourite NHL Team
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nhl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" alt="NHL" height="28" align="top"></picture> My Favourite NHL Team
 
 <!-- readme-scoreboard-nhl start -->
 <img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" width="60" align="right" />
@@ -159,7 +159,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
-## 🏈 My Favourite NFL Team
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nfl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png" alt="NFL" height="28" align="top"></picture> My Favourite NFL Team
 
 <!-- readme-scoreboard-nfl start -->
 <img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" width="60" align="right" />
@@ -182,7 +182,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
-## ⚽ My Favourite MLS Team
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/leaguelogos/soccer/500-dark/19.png"><img src="https://a.espncdn.com/i/leaguelogos/soccer/500/19.png" alt="MLS" height="28" align="top"></picture> My Favourite MLS Team
 
 <!-- readme-scoreboard-mls start -->
 <img src="https://a.espncdn.com/i/teamlogos/soccer/500/20232.png" width="60" align="right" />
