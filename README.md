@@ -87,7 +87,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 <img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" width="60" align="right" />
 
 ### 👑 Los Angeles Lakers (LAL)
-Western Conference · Pacific Division
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="16" align="top"></picture> Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
 
 📊 2025-2026 Record: 53W - 29L (64.6%)
@@ -113,7 +113,7 @@ Western Conference · Pacific Division
 <img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" width="60" align="right" />
 
 ### 🐦 Toronto Blue Jays (TOR)
-American League · AL East
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="16" align="top"></picture> American League · AL East
 🟢 Season in progress
 
 📊 2026 Record: 56W - 63L (47.1%)
@@ -139,7 +139,7 @@ American League · AL East
 <img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" width="60" align="right" />
 
 ### 🍁 Toronto Maple Leafs (TOR)
-Eastern Conference · Atlantic Division
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nhl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" alt="NHL" height="16" align="top"></picture> Eastern Conference · Atlantic Division
 🔴 Off-season · Next season starts October 2026
 
 📊 2025-2026 Record: 32W - 50L (39.0%)
@@ -165,7 +165,7 @@ Eastern Conference · Atlantic Division
 <img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" width="60" align="right" />
 
 ### 😈 New England Patriots (NE)
-AFC · AFC East
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nfl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png" alt="NFL" height="16" align="top"></picture> AFC · AFC East
 🔴 Off-season · Next season starts September 2026
 
 **📅 Recent Games:**
@@ -188,7 +188,7 @@ AFC · AFC East
 <img src="https://a.espncdn.com/i/teamlogos/soccer/500/20232.png" width="60" align="right" />
 
 ### 🦩 Inter Miami CF (MIA)
-Eastern Conference
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/leaguelogos/soccer/500-dark/19.png"><img src="https://a.espncdn.com/i/leaguelogos/soccer/500/19.png" alt="MLS" height="16" align="top"></picture> Eastern Conference
 🟢 Season in progress
 
 📊 2026 Record: 11W - 2L - 5D  (38 pts)
