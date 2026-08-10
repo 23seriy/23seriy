@@ -84,10 +84,10 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="28" align="top"></picture> My Favourite NBA Team
 
 <!-- readme-scoreboard start -->
-<img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" width="60" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" width="72" align="right" />
 
 ### 👑 Los Angeles Lakers (LAL)
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="16" align="top"></picture> Western Conference · Pacific Division
+Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
 
 📊 2025-2026 Record: 53W - 29L (64.6%)
@@ -110,10 +110,10 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="28" align="top"></picture> My Favourite MLB Team
 
 <!-- readme-scoreboard-mlb start -->
-<img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" width="60" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" width="72" align="right" />
 
 ### 🐦 Toronto Blue Jays (TOR)
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="16" align="top"></picture> American League · AL East
+American League · AL East
 🟢 Season in progress
 
 📊 2026 Record: 56W - 63L (47.1%)
@@ -136,10 +136,10 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nhl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" alt="NHL" height="28" align="top"></picture> My Favourite NHL Team
 
 <!-- readme-scoreboard-nhl start -->
-<img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" width="60" align="right" />
+<img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" width="72" align="right" />
 
 ### 🍁 Toronto Maple Leafs (TOR)
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nhl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" alt="NHL" height="16" align="top"></picture> Eastern Conference · Atlantic Division
+Eastern Conference · Atlantic Division
 🔴 Off-season · Next season starts October 2026
 
 📊 2025-2026 Record: 32W - 50L (39.0%)
@@ -162,10 +162,10 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nfl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png" alt="NFL" height="28" align="top"></picture> My Favourite NFL Team
 
 <!-- readme-scoreboard-nfl start -->
-<img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" width="60" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" width="72" align="right" />
 
 ### 😈 New England Patriots (NE)
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nfl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png" alt="NFL" height="16" align="top"></picture> AFC · AFC East
+AFC · AFC East
 🔴 Off-season · Next season starts September 2026
 
 **📅 Recent Games:**
@@ -185,10 +185,10 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/leaguelogos/soccer/500-dark/19.png"><img src="https://a.espncdn.com/i/leaguelogos/soccer/500/19.png" alt="MLS" height="28" align="top"></picture> My Favourite MLS Team
 
 <!-- readme-scoreboard-mls start -->
-<img src="https://a.espncdn.com/i/teamlogos/soccer/500/20232.png" width="60" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/soccer/500/20232.png" width="72" align="right" />
 
 ### 🦩 Inter Miami CF (MIA)
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/leaguelogos/soccer/500-dark/19.png"><img src="https://a.espncdn.com/i/leaguelogos/soccer/500/19.png" alt="MLS" height="16" align="top"></picture> Eastern Conference
+Eastern Conference
 🟢 Season in progress
 
 📊 2026 Record: 11W - 2L - 5D  (38 pts)
