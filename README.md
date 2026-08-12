@@ -83,7 +83,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="28" align="top"></picture> My Favourite NBA Team
 
-<!-- readme-scoreboard start -->
+<!-- readme-scoreboard-nba start -->
 <img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" width="72" align="right" />
 
 ### 👑 Los Angeles Lakers (LAL)
@@ -101,7 +101,7 @@ Western Conference · Pacific Division
 ❌ L  90-108 @ OKC (May 6, 2026) [Playoffs]
 ✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
 ```
-<!-- readme-scoreboard end -->
+<!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
 
