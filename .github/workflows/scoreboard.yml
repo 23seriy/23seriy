@@ -11,11 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
+      # Each step's marker must match a marker pair in README.md.
       - uses: 23seriy/readme-scoreboard@main
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
           sport: nba
           team: LAL
+          marker: readme-scoreboard-nba
 
       - uses: 23seriy/readme-scoreboard@main
         with:
@@ -24,29 +26,8 @@ jobs:
           team: TOR
           marker: readme-scoreboard-mlb
 
-      - uses: 23seriy/readme-scoreboard@main
-        with:
-          gh_token: ${{ secrets.GH_TOKEN }}
-          sport: nhl
-          team: TOR
-          marker: readme-scoreboard-nhl
-
-      - uses: 23seriy/readme-scoreboard@main
-        with:
-          gh_token: ${{ secrets.GH_TOKEN }}
-          sport: nfl
-          team: NE
-          marker: readme-scoreboard-nfl
-
-      - uses: 23seriy/readme-scoreboard@main
-        with:
-          gh_token: ${{ secrets.GH_TOKEN }}
-          sport: mls
-          team: MIA
-          marker: readme-scoreboard-mls
-
       - name: Commit and push if changed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "🏀⚾🏒🏈⚽ Update NBA + MLB + NHL + NFL + MLS scoreboard" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "🏀⚾ Update NBA + MLB scoreboard" && git push)
