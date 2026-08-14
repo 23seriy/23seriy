@@ -81,8 +81,6 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ---
 
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="28" align="top"></picture> My Favourite NBA Team
-
 <!-- readme-scoreboard-nba start -->
 <img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" width="72" align="right" />
 
@@ -106,8 +104,6 @@ Western Conference · Pacific Division
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
 
 ---
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="28" align="top"></picture> My Favourite MLB Team
 
 <!-- readme-scoreboard-mlb start -->
 <img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" width="72" align="right" />
