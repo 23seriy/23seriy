@@ -15,6 +15,7 @@ jobs:
       - uses: 23seriy/readme-scoreboard@main
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
+          target_repo: 23seriy/23seriy
           sport: nba
           team: LAL
           marker: readme-scoreboard-nba
@@ -22,6 +23,7 @@ jobs:
       - uses: 23seriy/readme-scoreboard@main
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
+          target_repo: 23seriy/23seriy
           sport: mlb
           team: TOR
           marker: readme-scoreboard-mlb
