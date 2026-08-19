@@ -5,14 +5,15 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: scoreboard-update
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
-
       # Each step's marker must match a marker pair in README.md.
-      - uses: 23seriy/readme-scoreboard@main
+      - uses: 23seriy/readme-scoreboard@v1
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
           target_repo: 23seriy/23seriy
@@ -20,16 +21,10 @@ jobs:
           team: LAL
           marker: readme-scoreboard-nba
 
-      - uses: 23seriy/readme-scoreboard@main
+      - uses: 23seriy/readme-scoreboard@v1
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
           target_repo: 23seriy/23seriy
           sport: mlb
           team: TOR
           marker: readme-scoreboard-mlb
-
-      - name: Commit and push if changed
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet README.md || (git add README.md && git commit -m "🏀⚾ Update NBA + MLB scoreboard" && git push)
