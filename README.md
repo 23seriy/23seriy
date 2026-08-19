@@ -110,7 +110,7 @@ Western Conference · Pacific Division
 <!-- readme-scoreboard-mlb start -->
 ## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="28" align="top"></picture> My Favourite MLB Team
 
-<img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" alt="Toronto Blue Jays logo" width="72" align="right" />
+<img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" width="72" align="right" />
 
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
