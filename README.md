@@ -116,16 +116,16 @@ Western Conference · Pacific Division
 American League · AL East
 🟢 Season in progress
 
-📊 2026 Record: 63W - 66L (48.8%)
+📊 2026 Record: 63W - 67L (48.5%)
    ████████████▏░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+❌ L  1-3  @ NYY (Aug 21, 2026)
 ✅ W  5-1  @ TB  (Aug 20, 2026)
 ❌ L  6-7  @ TB  (Aug 19, 2026)
 ✅ W 10-5  @ TB  (Aug 18, 2026)
 ❌ L  3-4  vs NYY (Aug 16, 2026)
-✅ W  4-1  vs NYY (Aug 15, 2026)
 ```
 <!-- readme-scoreboard-mlb end -->
 
