@@ -135,7 +135,7 @@ American League · AL East
 ❌ L  3-5  vs KC  (Aug 25, 2026)
 ```
 
-_Last updated: 2026-08-30T12:42:28.212Z_
+_Last updated: 2026-08-30T14:35:12.849Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
