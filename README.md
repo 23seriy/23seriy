@@ -104,7 +104,7 @@ Western Conference · Pacific Division
 ✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
 ```
 
-_Last updated: 2026-08-30T12:42:25.479Z_
+_Last updated: 2026-08-30T14:35:09.727Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
