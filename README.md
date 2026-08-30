@@ -112,25 +112,30 @@ _Last updated: 2026-08-30T12:42:25.479Z_
 ---
 
 <!-- readme-scoreboard-mlb start -->
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="28" align="top"></picture> My Favourite MLB Team
+## [<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="28" align="top"></picture> My Favourite MLB Team](https://statsapi.mlb.com/api/v1/teams?sportId=1)
 
 <img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" alt="Toronto Blue Jays logo" width="72" align="right" />
 
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
 🟢 Season in progress
+🏅 Standing: AL East · 5
+📅 Next: @ CWS (Apr 3)
+🔥 Form: ✅ ✅ ❌ ✅ ❌
 
-📊 2026 Record: 66W - 70L (48.5%)
+📊 2026 Record: 67W - 70L (48.9%)
    ████████████▏░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W  4-3  vs SEA (Aug 29, 2026)
 ✅ W  8-1  vs SEA (Aug 28, 2026)
 ❌ L  2-13 vs KC  (Aug 27, 2026)
 ✅ W  3-0  vs KC  (Aug 26, 2026)
 ❌ L  3-5  vs KC  (Aug 25, 2026)
-❌ L  3-8  @ NYY (Aug 23, 2026)
 ```
+
+_Last updated: 2026-08-30T12:42:28.212Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
