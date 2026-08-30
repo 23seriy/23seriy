@@ -82,13 +82,15 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ---
 
 <!-- readme-scoreboard-nba start -->
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="28" align="top"></picture> My Favourite NBA Team
+## [<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nba.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="NBA" height="28" align="top"></picture> My Favourite NBA Team](https://site.api.espn.com/apis/site/v2/sports/basketball/nba/teams)
 
 <img src="https://a.espncdn.com/i/teamlogos/nba/500/lal.png" alt="Los Angeles Lakers logo" width="72" align="right" />
 
 ### 👑 Los Angeles Lakers (LAL)
 Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
+🏅 Standing: Western · 6
+🔥 Form: ❌ ✅ ✅ ❌ ✅
 
 📊 2025-2026 Record: 53W - 29L (64.6%)
    ████████████████▏░░░░░░░░
@@ -101,6 +103,8 @@ Western Conference · Pacific Division
 ❌ L  90-108 @ OKC (May 6, 2026) [Playoffs]
 ✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
 ```
+
+_Last updated: 2026-08-30T12:42:25.479Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
