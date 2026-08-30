@@ -90,7 +90,6 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
 🏅 Standing: Western · 6
-🔥 Form: ❌ ✅ ✅ ❌ ✅
 
 📊 2025-2026 Record: 53W - 29L (64.6%)
    ████████████████▏░░░░░░░░
@@ -104,7 +103,7 @@ Western Conference · Pacific Division
 ✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
 ```
 
-_Last updated: 2026-08-30T14:35:09.727Z_
+_Last updated: 2026-08-30T15:15:45.788Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
