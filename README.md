@@ -118,7 +118,7 @@ _Last updated: 2026-08-31T01:14:05.634Z_
 ### 🐦 Toronto Blue Jays (TOR)
 American League · AL East
 🟢 Season in progress
-🏅 Standing: AL East · 4
+🏅 Standing: AL East · 5
 📅 Next: @ CLE (Sep 1)
 
 📊 2026 Record: 68W - 70L (49.3%)
@@ -133,7 +133,7 @@ American League · AL East
 ✅ W  3-0  vs KC  (Aug 26, 2026)
 ```
 
-_Last updated: 2026-08-30T22:33:23.972Z_
+_Last updated: 2026-08-31T01:14:08.292Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
