@@ -133,7 +133,7 @@ American League · AL East
 ✅ W  3-0  vs KC  (Aug 26, 2026)
 ```
 
-_Last updated: 2026-08-31T16:54:37.215Z_
+_Last updated: 2026-08-31T21:49:34.983Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
