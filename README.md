@@ -140,6 +140,13 @@ _Last updated: 2026-09-01T17:43:27.158Z_
 
 ---
 
+<!-- readme-scoreboard-atp start -->
+<!-- readme-scoreboard-atp end -->
+
+<sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

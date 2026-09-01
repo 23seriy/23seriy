@@ -28,3 +28,11 @@ jobs:
           sport: mlb
           team: TOR
           marker: readme-scoreboard-mlb
+
+      - uses: 23seriy/readme-scoreboard@v1
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          target_repo: 23seriy/23seriy
+          sport: atp
+          team: DJO
+          marker: readme-scoreboard-atp
