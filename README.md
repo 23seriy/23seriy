@@ -141,12 +141,6 @@ _Last updated: 2026-08-30T15:15:48.809Z_
 ---
 
 <!-- readme-scoreboard-atp start -->
-## [<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png"><img src="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png" alt="ATP Tennis" height="28" align="top"></picture> My Favourite ATP Tennis Player](https://site.api.espn.com/apis/site/v2/sports/tennis/atp/teams)
-
-### 🇷🇸 Novak Djokovic (DJO)
-ATP · World Ranking
-
-_Last updated: pending first run_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
