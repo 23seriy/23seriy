@@ -89,6 +89,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 ### 👑 Los Angeles Lakers (LAL)
 Western Conference · Pacific Division
 🔴 Off-season · Next season starts October 2026
+
 🏅 Standing: Western · 6
 
 📊 2025-2026 Record: 53W - 29L (64.6%)
@@ -103,7 +104,7 @@ Western Conference · Pacific Division
 ✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
 ```
 
-_Last updated: 2026-09-02T04:06:09.352Z_
+_Last updated: 2026-09-02T08:37:50.567Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
