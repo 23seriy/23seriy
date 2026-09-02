@@ -133,7 +133,7 @@ American League · AL East
 ❌ L  2-13 vs KC  (Aug 27, 2026)
 ```
 
-_Last updated: 2026-09-02T02:56:52.158Z_
+_Last updated: 2026-09-02T02:59:54.600Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
