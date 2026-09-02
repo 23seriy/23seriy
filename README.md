@@ -141,6 +141,19 @@ _Last updated: 2026-09-02T02:59:54.600Z_
 ---
 
 <!-- readme-scoreboard-atp start -->
+## [<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png"><img src="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png" alt="ATP Tennis" height="28" align="top"></picture> My Favourite ATP Tennis Player](https://site.api.espn.com/apis/site/v2/sports/tennis/atp/teams)
+
+<img src="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png" alt="Novak Djokovic logo" width="72" align="right" />
+
+### 🇷🇸 Novak Djokovic (DJO)
+ATP · World Ranking
+
+🏆 World No. 5
+📍 3,770 ranking points
+📈 Movement: — (was No. 5)
+❌ L vs Mariano Navone (Aug 30, 2026) 7-6, 5-7, 4-6, 6-2, 6-1
+
+_Last updated: 2026-09-02T02:59:57.078Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
