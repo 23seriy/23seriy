@@ -175,8 +175,8 @@ _Last updated: 2026-09-04T17:28:59.666Z_
     <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23seriy&theme=transparent" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23seriy&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=23seriy&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
