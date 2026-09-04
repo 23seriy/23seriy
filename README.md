@@ -177,7 +177,7 @@ _Last updated: 2026-09-04T13:19:39.448Z_
 </p>
 
 <p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=23seriy&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img width="800" src="https://ghchart.rshah.org/00ADB5/23seriy" alt="Contribution Activity" />
 </p>
 
 ---
