@@ -135,7 +135,7 @@ American League · AL East
 ✅ W  4-3  vs SEA (Aug 29, 2026)
 ```
 
-_Last updated: 2026-09-04T08:43:00.736Z_
+_Last updated: 2026-09-04T13:19:36.688Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
