@@ -174,10 +174,10 @@ _Last updated: 2026-09-04T17:28:59.666Z_
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=23seriy&theme=transparent" alt="GitHub Stats" />
   </a>
-</p>
-
-<p align="center">
-  <img width="800" src="https://ghchart.rshah.org/00ADB5/23seriy" alt="Contribution Activity" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23seriy&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
