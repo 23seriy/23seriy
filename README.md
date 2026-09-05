@@ -121,7 +121,7 @@ American League · AL East
 🟢 Season in progress
 
 🏅 Standing: AL East · 4
-📅 Next: @ KC (Sep 5)
+📅 Next: @ KC (Sep 6)
 
 📊 2026 Record: 70W - 71L (49.6%)
    ████████████▍░░░░░░░░░░░░
@@ -135,7 +135,7 @@ American League · AL East
 ✅ W  4-3  vs SEA (Aug 29, 2026)
 ```
 
-_Last updated: 2026-09-04T22:54:11.112Z_
+_Last updated: 2026-09-05T00:44:59.679Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
