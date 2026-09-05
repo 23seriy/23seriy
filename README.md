@@ -123,19 +123,19 @@ American League · AL East
 🏅 Standing: AL East · 4
 📅 Next: @ KC (Sep 6)
 
-📊 2026 Record: 70W - 71L (49.6%)
-   ████████████▍░░░░░░░░░░░░
+📊 2026 Record: 71W - 71L (50.0%)
+   ████████████▌░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W  9-2  @ KC  (Sep 4, 2026)
 ✅ W  6-3  @ CLE (Sep 3, 2026)
 ✅ W 11-0  @ CLE (Sep 2, 2026)
 ❌ L  1-6  @ CLE (Sep 1, 2026)
 ✅ W  7-0  vs SEA (Aug 30, 2026)
-✅ W  4-3  vs SEA (Aug 29, 2026)
 ```
 
-_Last updated: 2026-09-05T00:44:59.679Z_
+_Last updated: 2026-09-05T05:26:09.811Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
