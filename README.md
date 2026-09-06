@@ -135,7 +135,7 @@ American League · AL East
 ❌ L  1-6  @ CLE (Sep 1, 2026)
 ```
 
-_Last updated: 2026-09-06T16:04:09.134Z_
+_Last updated: 2026-09-06T18:57:15.743Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
