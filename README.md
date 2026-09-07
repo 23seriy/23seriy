@@ -121,7 +121,7 @@ American League · AL East
 🟢 Season in progress
 
 🏅 Standing: AL East · 4
-📅 Next: @ ATH (Sep 7)
+📅 Next: @ ATH (Sep 8)
 
 📊 2026 Record: 72W - 72L (50.0%)
    ████████████▌░░░░░░░░░░░░
@@ -135,7 +135,7 @@ American League · AL East
 ✅ W 11-0  @ CLE (Sep 2, 2026)
 ```
 
-_Last updated: 2026-09-06T23:38:24.060Z_
+_Last updated: 2026-09-07T03:50:09.379Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
