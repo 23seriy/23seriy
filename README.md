@@ -104,7 +104,15 @@ Western Conference · Pacific Division
 ✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
 ```
 
-_Last updated: 2026-09-08T00:33:36.864Z_
+**👑 Player Spotlight: Luka Doncic**
+33.5 PPG · 7.7 RPG · 8.3 APG
+
+**📅 Last Game:**
+```
+12 PTS · 4 REB · 7 AST · 26 MIN
+```
+
+_Last updated: 2026-09-08T00:55:24.723Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
