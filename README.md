@@ -109,10 +109,10 @@ Western Conference · Pacific Division
 
 **📅 Last Game:**
 ```
-12 PTS · 4 REB · 7 AST · 26 MIN
+12 PTS · 4 REB · 7 AST · 26 MIN vs Oklahoma City Thunder (Apr 3, 2026)
 ```
 
-_Last updated: 2026-09-08T01:37:14.511Z_
+_Last updated: 2026-09-08T01:46:40.898Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
