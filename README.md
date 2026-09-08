@@ -148,10 +148,10 @@ American League · AL East
 
 **📅 Last Game:**
 ```
-1 H · 0 HR · 0 RBI · .333 AVG vs Athletics (Mar 27, 2026)
+1 H · 0 HR · 0 RBI · .259 AVG vs Athletics (Sep 7, 2026)
 ```
 
-_Last updated: 2026-09-08T20:56:08.385Z_
+_Last updated: 2026-09-08T23:10:53.823Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
