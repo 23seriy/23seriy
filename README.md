@@ -143,7 +143,15 @@ American League · AL East
 ✅ W  6-3  @ CLE (Sep 3, 2026)
 ```
 
-_Last updated: 2026-09-08T12:44:19.310Z_
+**🐦 Player Spotlight: Vladimir Guerrero Jr.**
+.259 AVG · 8 HR · 54 RBI
+
+**📅 Last Game:**
+```
+1 H · 0 HR · 0 RBI · .333 AVG vs Athletics (Mar 27, 2026)
+```
+
+_Last updated: 2026-09-08T16:52:36.245Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
