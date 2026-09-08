@@ -19,7 +19,7 @@ jobs:
           target_repo: 23seriy/23seriy
           sport: nba
           team: LAL
-          player: "Luka Dončić"
+          player: "Luka Doncic"
           marker: readme-scoreboard-nba
 
       - uses: 23seriy/readme-scoreboard@v1
