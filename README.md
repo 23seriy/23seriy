@@ -112,7 +112,7 @@ Western Conference · Pacific Division
 12 PTS · 4 REB · 7 AST · 26 MIN
 ```
 
-_Last updated: 2026-09-08T00:55:24.723Z_
+_Last updated: 2026-09-08T01:01:41.859Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
