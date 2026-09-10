@@ -151,7 +151,7 @@ American League · AL East
 0 H · 0 HR · 0 RBI · .260 AVG vs Athletics (Sep 9, 2026)
 ```
 
-_Last updated: 2026-09-10T17:35:40.153Z_
+_Last updated: 2026-09-10T20:39:17.696Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
