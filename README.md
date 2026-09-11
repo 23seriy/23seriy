@@ -105,14 +105,14 @@ Western Conference · Pacific Division
 ```
 
 **👑 Player Spotlight: Luka Doncic**
-33.5 PPG · 7.7 RPG · 8.3 APG
+0.0 PPG · 0.0 RPG · 0.0 APG
 
 **📅 Last Game:**
 ```
 12 PTS · 4 REB · 7 AST · 26 MIN vs Oklahoma City Thunder (Apr 2, 2026)
 ```
 
-_Last updated: 2026-09-11T13:24:22.499Z_
+_Last updated: 2026-09-11T17:38:48.835Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
