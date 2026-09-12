@@ -131,16 +131,16 @@ American League · AL East
 🏅 Standing: AL East · 4
 📅 Next: vs BAL (Sep 13)
 
-📊 2026 Record: 73W - 75L (49.3%)
-   ████████████▎░░░░░░░░░░░░
+📊 2026 Record: 74W - 75L (49.7%)
+   ████████████▍░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W  7-3  vs BAL (Sep 12, 2026)
 ❌ L  4-7  vs BAL (Sep 11, 2026)
 ❌ L  0-2  @ ATH (Sep 9, 2026)
 ✅ W  4-2  @ ATH (Sep 8, 2026)
 ❌ L  5-6  @ ATH (Sep 7, 2026)
-❌ L  1-6  @ KC  (Sep 6, 2026)
 ```
 
 **🐦 Player Spotlight: Vladimir Guerrero Jr.**
@@ -151,7 +151,7 @@ American League · AL East
 1 H · 0 HR · 1 RBI · .259 AVG vs Baltimore Orioles (Sep 12, 2026)
 ```
 
-_Last updated: 2026-09-12T22:03:12.138Z_
+_Last updated: 2026-09-12T22:32:55.313Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
