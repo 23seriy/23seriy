@@ -173,7 +173,7 @@ ATP · World Ranking
 ❌ L vs Mariano Navone (Aug 30, 2026) 7-6, 5-7, 4-6, 6-2, 6-1
 ```
 
-_Last updated: 2026-09-13T11:25:43.415Z_
+_Last updated: 2026-09-13T15:55:10.035Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
