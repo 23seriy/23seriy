@@ -144,14 +144,14 @@ American League · AL East
 ```
 
 **🐦 Player Spotlight: Vladimir Guerrero Jr.**
-.259 AVG · 8 HR · 55 RBI
+.262 AVG · 8 HR · 55 RBI
 
 **📅 Last Game:**
 ```
-1 H · 0 HR · 1 RBI · .259 AVG vs Baltimore Orioles (Sep 12, 2026)
+2 H · 0 HR · 0 RBI · .262 AVG vs Baltimore Orioles (Sep 13, 2026)
 ```
 
-_Last updated: 2026-09-13T15:55:06.804Z_
+_Last updated: 2026-09-13T18:39:39.336Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
