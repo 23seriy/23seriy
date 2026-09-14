@@ -146,14 +146,14 @@ American League · AL East
 
 **🐦 Player Spotlight: Vladimir Guerrero Jr.**
 <img src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665489/headshot/67/current" alt="Vladimir Guerrero Jr. headshot" width="72" align="right" />
-.265 AVG · 9 HR · 56 RBI
+.264 AVG · 9 HR · 56 RBI
 
 **📅 Last Game:**
 ```
-4 H · 1 HR · 1 RBI · .265 AVG vs Baltimore Orioles (Sep 13, 2026)
+0 H · 0 HR · 0 RBI · .264 AVG vs Detroit Tigers (Sep 14, 2026)
 ```
 
-_Last updated: 2026-09-14T20:48:52.941Z_
+_Last updated: 2026-09-14T23:45:38.977Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
