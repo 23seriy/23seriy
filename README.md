@@ -129,7 +129,7 @@ American League · AL East
 🟢 Season in progress
 
 🏅 Standing: AL East · 4
-📅 Next: vs DET (Sep 14)
+📅 Next: vs DET (Sep 15)
 
 📊 2026 Record: 75W - 75L (50.0%)
    ████████████▌░░░░░░░░░░░░
@@ -151,7 +151,7 @@ American League · AL East
 4 H · 1 HR · 1 RBI · .265 AVG vs Baltimore Orioles (Sep 13, 2026)
 ```
 
-_Last updated: 2026-09-13T23:58:41.372Z_
+_Last updated: 2026-09-14T00:31:54.224Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
