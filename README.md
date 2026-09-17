@@ -153,7 +153,7 @@ American League · AL East
 1 H · 0 HR · 0 RBI · .262 AVG vs Detroit Tigers (Sep 16, 2026)
 ```
 
-_Last updated: 2026-09-17T13:13:59.044Z_
+_Last updated: 2026-09-17T18:02:45.573Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
