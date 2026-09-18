@@ -130,7 +130,7 @@ American League · AL East
 🟢 Season in progress
 
 🏅 Standing: AL East · 4
-📅 Next: @ TEX (Sep 18)
+📅 Next: @ TEX (Sep 19)
 
 📊 2026 Record: 76W - 77L (49.7%)
    ████████████▍░░░░░░░░░░░░
@@ -153,7 +153,7 @@ American League · AL East
 1 H · 0 HR · 0 RBI · .262 AVG vs Detroit Tigers (Sep 16, 2026)
 ```
 
-_Last updated: 2026-09-17T21:59:28.597Z_
+_Last updated: 2026-09-18T00:07:10.111Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
