@@ -130,7 +130,7 @@ American League · AL East
 🟢 Season in progress
 
 🏅 Standing: AL East · 4
-📅 Next: @ TEX (Sep 20)
+📅 Next: @ BAL (Sep 21)
 
 📊 2026 Record: 76W - 78L (49.4%)
    ████████████▎░░░░░░░░░░░░
@@ -146,14 +146,14 @@ American League · AL East
 
 **🐦 Player Spotlight: Vladimir Guerrero Jr.**
 <img src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665489/headshot/67/current" alt="Vladimir Guerrero Jr. headshot" height="72" align="right" />
-.261 AVG · 9 HR · 56 RBI
+.260 AVG · 9 HR · 56 RBI
 
 **📅 Last Game:**
 ```
-1 H · 0 HR · 0 RBI · .261 AVG vs Texas Rangers (Sep 18, 2026)
+0 H · 0 HR · 0 RBI · .260 AVG vs Texas Rangers (Sep 19, 2026)
 ```
 
-_Last updated: 2026-09-19T22:46:55.757Z_
+_Last updated: 2026-09-20T00:50:56.943Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
