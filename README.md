@@ -168,14 +168,14 @@ _Last updated: 2026-09-21T04:44:56.428Z_
 ### 🇷🇸 Novak Djokovic (DJO)
 ATP · World Ranking
 
-🏆 World No. 12 · 📍 2,980 ranking points · 📈 Movement: ▼ (was No. 5)
+🏆 World No. 12 · 📍 2,980 ranking points · 📈 Movement: — (was No. 12)
 
 **📅 Last Match:**
 ```
 ❌ L vs Mariano Navone (Aug 30, 2026) 7-6, 5-7, 4-6, 6-2, 6-1
 ```
 
-_Last updated: 2026-09-20T23:59:00.991Z_
+_Last updated: 2026-09-21T04:44:59.649Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
