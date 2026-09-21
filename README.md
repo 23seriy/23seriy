@@ -153,7 +153,7 @@ American League · AL East
 1 H · 0 HR · 0 RBI · .263 AVG vs Texas Rangers (Sep 20, 2026)
 ```
 
-_Last updated: 2026-09-21T04:44:56.428Z_
+_Last updated: 2026-09-21T10:31:44.107Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
