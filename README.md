@@ -130,7 +130,7 @@ American League · AL East
 🟢 Season in progress
 
 🏅 Standing: AL East · 4
-📅 Next: @ BAL (Sep 23)
+📅 Next: vs CIN (Sep 25)
 
 📊 2026 Record: 77W - 80L (49.0%)
    ████████████▎░░░░░░░░░░░░
@@ -153,7 +153,7 @@ American League · AL East
 1 H · 0 HR · 0 RBI · .263 AVG vs Texas Rangers (Sep 20, 2026)
 ```
 
-_Last updated: 2026-09-22T21:53:36.848Z_
+_Last updated: 2026-09-23T00:10:05.154Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
