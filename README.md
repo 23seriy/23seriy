@@ -150,10 +150,10 @@ American League · AL East
 
 **📅 Last Game:**
 ```
-1 H · 0 HR · 0 RBI · .263 AVG vs Texas Rangers (Sep 20, 2026)
+1 H · 0 HR · 0 RBI · .263 AVG vs Baltimore Orioles (Sep 23, 2026)
 ```
 
-_Last updated: 2026-09-23T16:30:08.584Z_
+_Last updated: 2026-09-23T20:02:42.468Z_
 <!-- readme-scoreboard-mlb end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
