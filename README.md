@@ -127,15 +127,25 @@ _Last updated: 2026-09-26T20:55:38.460Z_
 
 ### 🍁 Toronto Maple Leafs (TOR)
 Eastern Conference · Atlantic Division
-🔴 Off-season · Next season starts October 2026
+🔴 Off-season · Next season starts September 29, 2026
 
-🏅 Standing: Atlantic · 8
+🏅 Standing (2025-26): Atlantic · 8
 📅 Next: vs MTL (Sep 29)
 
-📅 No recent games found
+📊 2025-2026 Record: 32W - 50L (39.0%)
+   █████████▊░░░░░░░░░░░░░░░
+
+**📅 Recent Games:**
+```
+❌ L   1-3   @ OTT (Apr 15, 2026)
+❌ L   5-6   vs DAL (Apr 13, 2026)
+❌ L   2-6   vs FLA (Apr 11, 2026)
+❌ L   3-5   @ NYI (Apr 9, 2026)
+❌ L   0-4   vs WSH (Apr 8, 2026)
+```
 
 **🍁 Player Spotlight: William Nylander**
-<img src="https://assets.nhle.com/mugs/nhl/20252026/8477939.png" alt="William Nylander headshot" height="72" align="right" />
+<img src="https://assets.nhle.com/mugs/nhl/latest/8477939.png" alt="William Nylander headshot" height="72" align="right" />
 30 G · 49 A · 79 PTS
 
 **📅 Last Game:**
@@ -143,7 +153,7 @@ Eastern Conference · Atlantic Division
 1 G · 0 A · 1 P vs OTT (Apr 15, 2026)
 ```
 
-_Last updated: 2026-09-26T20:40:40.886Z_
+_Last updated: 2026-09-26T20:55:41.188Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
