@@ -163,7 +163,7 @@ _Last updated: 2026-09-26T20:55:41.188Z_
 <!-- readme-scoreboard-atp start -->
 ## [<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png"><img src="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png" alt="ATP Tennis" height="28" align="top"></picture> My Favourite ATP Tennis Player](https://site.api.espn.com/apis/site/v2/sports/tennis/atp/teams)
 
-<img src="https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-tennis.png" alt="Novak Djokovic logo" width="72" align="right" />
+<img src="https://a.espncdn.com/i/headshots/tennis/players/full/296.png" alt="Novak Djokovic logo" width="72" align="right" />
 
 ### 🇷🇸 Novak Djokovic (DJO)
 ATP · World Ranking
@@ -175,7 +175,7 @@ ATP · World Ranking
 ❌ L vs Mariano Navone (Aug 30, 2026) 7-6, 5-7, 4-6, 6-2, 6-1
 ```
 
-_Last updated: 2026-09-26T20:40:44.014Z_
+_Last updated: 2026-09-26T20:55:44.635Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
