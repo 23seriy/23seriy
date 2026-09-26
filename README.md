@@ -120,41 +120,31 @@ _Last updated: 2026-09-26T19:42:18.275Z_
 
 ---
 
-<!-- readme-scoreboard-mlb start -->
-## [<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/mlb.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" alt="MLB" height="28" align="top"></picture> My Favourite MLB Team](https://statsapi.mlb.com/api/v1/teams?sportId=1)
+<!-- readme-scoreboard-nhl start -->
+## [<picture><source media="(prefers-color-scheme: dark)" srcset="https://a.espncdn.com/i/teamlogos/leagues/500-dark/nhl.png"><img src="https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" alt="NHL" height="28" align="top"></picture> My Favourite NHL Team](https://api-web.nhle.com/v1/standings/now)
 
-<img src="https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" alt="Toronto Blue Jays logo" width="72" align="right" />
+<img src="https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg" alt="Toronto Maple Leafs logo" width="72" align="right" />
 
-### 🐦 Toronto Blue Jays (TOR)
-American League · AL East
-🟢 Season in progress
+### 🍁 Toronto Maple Leafs (TOR)
+Eastern Conference · Atlantic Division
+🔴 Off-season · Next season starts October 2026
 
-🏅 Standing: AL East · 5
-📅 Next: vs CIN (Sep 27)
+🏅 Standing: Atlantic · 8
+📅 Next: vs MTL (Sep 29)
 
-📊 2026 Record: 78W - 82L (48.8%)
-   ████████████▏░░░░░░░░░░░░
+📅 No recent games found
 
-**📅 Recent Games:**
-```
-✅ W  6-5  vs CIN (Sep 25, 2026)
-❌ L  2-4  @ BAL (Sep 23, 2026)
-❌ L  2-4  @ BAL (Sep 23, 2026)
-❌ L  3-4  @ BAL (Sep 21, 2026)
-✅ W  7-2  @ TEX (Sep 20, 2026)
-```
-
-**🐦 Player Spotlight: Vladimir Guerrero Jr.**
-<img src="https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665489/headshot/67/current" alt="Vladimir Guerrero Jr. headshot" height="72" align="right" />
-.262 AVG · 9 HR · 57 RBI
+**🍁 Player Spotlight: William Nylander**
+<img src="https://assets.nhle.com/mugs/nhl/20252026/8477939.png" alt="William Nylander headshot" height="72" align="right" />
+30 G · 49 A · 79 PTS
 
 **📅 Last Game:**
 ```
-0 H · 0 HR · 0 RBI · .262 AVG vs Cincinnati Reds (Sep 26, 2026)
+1 G · 0 A · 1 P vs OTT (Apr 15, 2026)
 ```
 
-_Last updated: 2026-09-26T19:42:21.882Z_
-<!-- readme-scoreboard-mlb end -->
+_Last updated: 2026-09-26T20:15:30.591Z_
+<!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
 

@@ -26,10 +26,10 @@ jobs:
         with:
           gh_token: ${{ secrets.GH_TOKEN }}
           target_repo: 23seriy/23seriy
-          sport: mlb
+          sport: nhl
           team: TOR
-          player: "Vladimir Guerrero Jr."
-          marker: readme-scoreboard-mlb
+          player: "William Nylander"
+          marker: readme-scoreboard-nhl
 
       - uses: 23seriy/readme-scoreboard@v1
         with:
