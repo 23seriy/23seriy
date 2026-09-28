@@ -170,7 +170,7 @@ ATP · World Ranking
 
 🏆 World No. 12 · 📍 2,980 ranking points · 📈 Movement: — (was No. 12)
 
-_Last updated: 2026-09-28T15:09:28.149Z_
+_Last updated: 2026-09-28T21:42:53.583Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
