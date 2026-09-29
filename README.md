@@ -153,7 +153,7 @@ Eastern Conference · Atlantic Division
 1 G · 0 A · 1 P vs OTT (Apr 15, 2026)
 ```
 
-_Last updated: 2026-09-29T15:32:58.496Z_
+_Last updated: 2026-09-29T20:34:22.166Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
