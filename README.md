@@ -127,9 +127,9 @@ _Last updated: 2026-09-29T01:38:09.997Z_
 
 ### 🍁 Toronto Maple Leafs (TOR)
 Eastern Conference · Atlantic Division
-🔴 Off-season · Next season starts September 29, 2026
+🟢 Season in progress
 
-🏅 Standing (2025-26): Atlantic · 8
+🏅 Standing (2026-27): Atlantic · 8
 📅 Next: vs MTL (Sep 29)
 
 📊 2025-2026 Record: 32W - 50L (39.0%)
@@ -153,7 +153,7 @@ Eastern Conference · Atlantic Division
 1 G · 0 A · 1 P vs OTT (Apr 15, 2026)
 ```
 
-_Last updated: 2026-09-28T21:42:49.798Z_
+_Last updated: 2026-09-29T01:38:12.380Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
