@@ -166,7 +166,12 @@ ATP · World Ranking
 
 🏆 World No. 11 · 📍 2,980 ranking points · 📈 Movement: ▼ (was No. 12)
 
-_Last updated: 2026-09-30T06:27:35.226Z_
+**📅 Last Match:**
+```
+✅ W vs Nuno Borges (Sep 30, 2026) 3-6, 6-7
+```
+
+_Last updated: 2026-09-30T13:28:31.782Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
