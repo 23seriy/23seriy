@@ -88,9 +88,10 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ### 👑 Los Angeles Lakers (LAL)
 Western Conference · Pacific Division
-🟢 Season in progress
+🔴 Off-season · Next season starts October 20, 2026
 
 🏅 Standing: Western · 8
+
 📅 Next: vs GS (Oct 22)
 
 📅 No recent games found
@@ -104,7 +105,7 @@ Western Conference · Pacific Division
 12 PTS · 4 REB · 7 AST · 26 MIN vs Oklahoma City Thunder (Apr 2, 2026)
 ```
 
-_Last updated: 2026-10-01T01:57:28.102Z_
+_Last updated: 2026-10-01T08:43:33.451Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
