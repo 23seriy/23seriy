@@ -88,21 +88,12 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 
 ### 👑 Los Angeles Lakers (LAL)
 Western Conference · Pacific Division
-🔴 Off-season · Next season starts October 20, 2026
+🟢 Season in progress
 
-🏅 Standing: Western · 6
+🏅 Standing: Western · 8
+📅 Next: vs GS (Oct 22)
 
-📊 2025-2026 Record: 53W - 29L (64.6%)
-   ████████████████▏░░░░░░░░
-
-**📅 Recent Games:**
-```
-❌ L 110-115 vs OKC (May 12, 2026) [Playoffs]
-❌ L 108-131 vs OKC (May 10, 2026) [Playoffs]
-❌ L 107-125 @ OKC (May 8, 2026) [Playoffs]
-❌ L  90-108 @ OKC (May 6, 2026) [Playoffs]
-✅ W  98-78  @ HOU (May 2, 2026) [Playoffs]
-```
+📅 No recent games found
 
 **👑 Player Spotlight: Luka Doncic**
 <img src="https://a.espncdn.com/i/headshots/nba/players/full/3945274.png" alt="Luka Doncic headshot" height="72" align="right" />
@@ -113,7 +104,7 @@ Western Conference · Pacific Division
 12 PTS · 4 REB · 7 AST · 26 MIN vs Oklahoma City Thunder (Apr 2, 2026)
 ```
 
-_Last updated: 2026-09-30T22:56:06.015Z_
+_Last updated: 2026-10-01T01:57:28.102Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
