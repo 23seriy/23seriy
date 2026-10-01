@@ -140,7 +140,7 @@ Eastern Conference · Atlantic Division
 2 G · 0 A · 2 P vs MTL (Sep 29, 2026)
 ```
 
-_Last updated: 2026-09-30T22:56:09.361Z_
+_Last updated: 2026-10-01T01:57:30.827Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
