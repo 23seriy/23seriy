@@ -121,14 +121,16 @@ _Last updated: 2026-10-01T08:43:33.451Z_
 Eastern Conference · Atlantic Division
 🟢 Season in progress
 
-🏅 Standing (2026-27): Atlantic · 8
-📅 Next: vs NYI (Sep 30)
+🏅 Standing (2026-27): Atlantic · 4
 
-📊 2025-2026 Record: 0W - 1L (0.0%)
-   ░░░░░░░░░░░░░░░░░░░░░░░░░
+📅 Next: vs OTT (Oct 3)
+
+📊 2025-2026 Record: 1W - 1L (50.0%)
+   ████████████▌░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W   2-1   vs NYI (Sep 30, 2026)
 ❌ L   2-3   vs MTL (Sep 29, 2026)
 ```
 
@@ -138,10 +140,10 @@ Eastern Conference · Atlantic Division
 
 **📅 Last Game:**
 ```
-2 G · 0 A · 2 P vs MTL (Sep 29, 2026)
+0 G · 0 A · 0 P vs NYI (Sep 30, 2026)
 ```
 
-_Last updated: 2026-10-01T01:57:30.827Z_
+_Last updated: 2026-10-01T08:43:36.721Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
