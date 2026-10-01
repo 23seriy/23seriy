@@ -162,7 +162,7 @@ ATP · World Ranking
 ✅ W vs Nuno Borges (Sep 30, 2026) 3-6, 6-7
 ```
 
-_Last updated: 2026-09-30T22:56:13.104Z_
+_Last updated: 2026-10-01T01:57:33.885Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
