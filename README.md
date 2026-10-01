@@ -158,14 +158,14 @@ _Last updated: 2026-10-01T08:43:36.721Z_
 ### 🇷🇸 Novak Djokovic (DJO)
 ATP · World Ranking
 
-🏆 World No. 11 · 📍 2,980 ranking points · 📈 Movement: ▼ (was No. 12)
+🏆 World No. 11 · 📈 Movement: ▼ (was No. 12)
 
 **📅 Last Match:**
 ```
 ✅ W vs Nuno Borges (Sep 30, 2026) 3-6, 6-7
 ```
 
-_Last updated: 2026-10-01T01:57:33.885Z_
+_Last updated: 2026-10-01T08:43:40.663Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
