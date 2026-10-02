@@ -160,7 +160,12 @@ ATP · World Ranking
 
 🏆 World No. 11 · 📈 Movement: ▼ (was No. 12)
 
-_Last updated: 2026-10-02T08:12:06.170Z_
+**📅 Last Match:**
+```
+✅ W vs Bu Yunchaokete (Oct 2, 2026) 6-4, 6-7, 2-6
+```
+
+_Last updated: 2026-10-02T15:35:06.874Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
