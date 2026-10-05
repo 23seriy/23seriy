@@ -161,7 +161,12 @@ ATP · World Ranking
 
 🏆 World No. 11 · 📈 Movement: ▼ (was No. 12)
 
-_Last updated: 2026-10-05T06:41:31.672Z_
+**📅 Last Match:**
+```
+✅ W vs Daniil Medvedev (Oct 5, 2026) 5-3, 5-3
+```
+
+_Last updated: 2026-10-05T15:43:10.761Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
