@@ -163,10 +163,10 @@ ATP · World Ranking
 
 **📅 Last Match:**
 ```
-✅ W vs Daniil Medvedev (Oct 5, 2026) 5-3, 5-3
+✅ W vs Daniil Medvedev (Oct 5, 2026) 7-5, 5-3
 ```
 
-_Last updated: 2026-10-05T15:43:10.761Z_
+_Last updated: 2026-10-05T22:24:25.400Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
