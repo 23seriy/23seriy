@@ -166,7 +166,7 @@ ATP · World Ranking
 ✅ W vs Alexander Zverev (Oct 4, 2026) 6-4, 4-6, 4-6
 ```
 
-_Last updated: 2026-10-04T21:04:47.290Z_
+_Last updated: 2026-10-05T00:35:21.774Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
