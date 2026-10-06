@@ -159,14 +159,14 @@ _Last updated: 2026-10-06T21:29:57.074Z_
 ### 🇷🇸 Novak Djokovic (DJO)
 ATP · World Ranking
 
-🏆 World No. 11 · 📈 Movement: ▼ (was No. 12)
+🏆 World No. 8 · 📈 Movement: ▼ (was No. 11)
 
 **📅 Last Match:**
 ```
 ✅ W vs Alex de Minaur (Oct 6, 2026) 7-6, 0-1
 ```
 
-_Last updated: 2026-10-06T16:37:38.023Z_
+_Last updated: 2026-10-06T21:30:00.814Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
