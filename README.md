@@ -161,7 +161,12 @@ ATP · World Ranking
 
 🏆 World No. 11 · 📈 Movement: ▼ (was No. 12)
 
-_Last updated: 2026-10-06T09:56:04.547Z_
+**📅 Last Match:**
+```
+✅ W vs Alex de Minaur (Oct 6, 2026) 7-6, 0-1
+```
+
+_Last updated: 2026-10-06T16:37:38.023Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
