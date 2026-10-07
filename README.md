@@ -145,7 +145,7 @@ Eastern Conference · Atlantic Division
 1 G · 2 A · 3 P vs NSH (Oct 6, 2026)
 ```
 
-_Last updated: 2026-10-07T08:21:47.570Z_
+_Last updated: 2026-10-07T16:12:59.686Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
