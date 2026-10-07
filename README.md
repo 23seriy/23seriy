@@ -166,7 +166,7 @@ ATP · World Ranking
 ✅ W vs Alex de Minaur (Oct 6, 2026) 7-6, 0-1
 ```
 
-_Last updated: 2026-10-06T21:30:00.814Z_
+_Last updated: 2026-10-07T01:17:45.581Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
