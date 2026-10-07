@@ -164,10 +164,10 @@ ATP · World Ranking
 
 **📅 Last Match:**
 ```
-✅ W vs Alex de Minaur (Oct 6, 2026) 7-6, 0-1
+✅ W vs Bye (Oct 7, 2026)
 ```
 
-_Last updated: 2026-10-07T01:17:45.581Z_
+_Last updated: 2026-10-07T08:21:50.928Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
