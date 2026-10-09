@@ -163,12 +163,7 @@ ATP · World Ranking
 
 🏆 World No. 8 · 📈 Movement: ▼ (was No. 11)
 
-**📅 Last Match:**
-```
-✅ W vs Bye (Oct 7, 2026)
-```
-
-_Last updated: 2026-10-09T01:51:52.674Z_
+_Last updated: 2026-10-09T08:43:01.159Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
