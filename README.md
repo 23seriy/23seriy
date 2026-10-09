@@ -105,7 +105,7 @@ Western Conference · Pacific Division
 12 PTS · 4 REB · 7 AST · 26 MIN vs Oklahoma City Thunder (Apr 2, 2026)
 ```
 
-_Last updated: 2026-10-09T08:42:55.146Z_
+_Last updated: 2026-10-09T15:58:11.908Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
