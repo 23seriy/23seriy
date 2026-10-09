@@ -146,7 +146,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs VGK (Oct 8, 2026)
 ```
 
-_Last updated: 2026-10-09T08:42:58.004Z_
+_Last updated: 2026-10-09T15:58:14.680Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
