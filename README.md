@@ -123,13 +123,14 @@ Eastern Conference · Atlantic Division
 
 🏅 Standing (2026-27): Atlantic · 5
 
-📅 Next: @ VGK (Oct 9)
+📅 Next: @ COL (Oct 10)
 
-📊 2025-2026 Record: 2W - 2L (50.0%)
-   ████████████▌░░░░░░░░░░░░
+📊 2025-2026 Record: 2W - 3L (40.0%)
+   ██████████░░░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+❌ L   3-4   @ VGK (Oct 8, 2026)
 ✅ W   5-4   vs NSH (Oct 6, 2026)
 ❌ L   2-3   vs OTT (Oct 3, 2026)
 ✅ W   2-1   vs NYI (Sep 30, 2026)
@@ -142,10 +143,10 @@ Eastern Conference · Atlantic Division
 
 **📅 Last Game:**
 ```
-1 G · 2 A · 3 P vs NSH (Oct 6, 2026)
+0 G · 0 A · 0 P vs VGK (Oct 8, 2026)
 ```
 
-_Last updated: 2026-10-09T01:51:49.239Z_
+_Last updated: 2026-10-09T08:42:58.004Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
