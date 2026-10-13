@@ -146,7 +146,7 @@ Eastern Conference · Atlantic Division
 2 G · 3 A · 5 P vs COL (Oct 10, 2026)
 ```
 
-_Last updated: 2026-10-12T17:35:43.947Z_
+_Last updated: 2026-10-13T00:23:13.524Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
