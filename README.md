@@ -121,7 +121,7 @@ _Last updated: 2026-10-15T05:42:31.727Z_
 Eastern Conference · Atlantic Division
 🟢 Season in progress
 
-🏅 Standing (2026-27): Atlantic · 6
+🏅 Standing (2026-27): Atlantic · 5
 
 📅 Next: vs BUF (Oct 15)
 
@@ -146,7 +146,7 @@ Eastern Conference · Atlantic Division
 0 G · 1 A · 1 P vs UTA (Oct 13, 2026)
 ```
 
-_Last updated: 2026-10-15T00:21:21.336Z_
+_Last updated: 2026-10-15T05:42:35.711Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
