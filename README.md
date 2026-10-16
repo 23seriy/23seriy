@@ -143,10 +143,10 @@ Eastern Conference · Atlantic Division
 
 **📅 Last Game:**
 ```
-0 G · 1 A · 1 P vs UTA (Oct 13, 2026)
+0 G · 0 A · 0 P vs BUF (Oct 15, 2026)
 ```
 
-_Last updated: 2026-10-16T08:54:22.735Z_
+_Last updated: 2026-10-16T13:50:55.367Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
