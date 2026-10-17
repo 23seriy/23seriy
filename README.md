@@ -146,7 +146,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs BUF (Oct 15, 2026)
 ```
 
-_Last updated: 2026-10-16T23:21:24.005Z_
+_Last updated: 2026-10-17T03:45:28.981Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
