@@ -146,7 +146,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs NYI (Oct 17, 2026)
 ```
 
-_Last updated: 2026-10-18T05:35:09.493Z_
+_Last updated: 2026-10-18T10:41:04.831Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
