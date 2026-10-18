@@ -168,7 +168,7 @@ ATP · World Ranking
 ❌ L vs Hubert Hurkacz (Oct 9, 2026) 4-6, 3-6
 ```
 
-_Last updated: 2026-10-18T20:21:23.435Z_
+_Last updated: 2026-10-18T22:53:35.770Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
