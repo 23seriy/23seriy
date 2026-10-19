@@ -161,14 +161,14 @@ _Last updated: 2026-10-19T05:59:26.899Z_
 ### 🇷🇸 Novak Djokovic (DJO)
 ATP · World Ranking
 
-🏆 World No. 8 · 📈 Movement: ▼ (was No. 11)
+🏆 World No. 12 · 📈 Movement: ▼ (was No. 8)
 
 **📅 Last Match:**
 ```
 ❌ L vs Hubert Hurkacz (Oct 9, 2026) 4-6, 3-6
 ```
 
-_Last updated: 2026-10-19T00:57:44.834Z_
+_Last updated: 2026-10-19T05:59:30.122Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
