@@ -146,7 +146,7 @@ Eastern Conference · Atlantic Division
 0 G · 1 A · 1 P vs SJS (Oct 19, 2026)
 ```
 
-_Last updated: 2026-10-20T09:53:32.390Z_
+_Last updated: 2026-10-20T14:50:51.388Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
