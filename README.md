@@ -90,11 +90,17 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🟢 Season in progress
 
-🏅 Standing: Western · 8
+🏅 Standing: Western · 10
 
-📅 Next: vs GS (Oct 22)
+📅 Next: vs LAC (Oct 24)
 
-📅 No recent games found
+📊 2026-2027 Record: 1W - 0L (100.0%)
+   █████████████████████████
+
+**📅 Recent Games:**
+```
+✅ W 127-105 vs GS  (Oct 21, 2026)
+```
 
 **👑 Player Spotlight: Luka Doncic**
 <img src="https://a.espncdn.com/i/headshots/nba/players/full/3945274.png" alt="Luka Doncic headshot" height="72" align="right" />
@@ -105,7 +111,7 @@ Western Conference · Pacific Division
 12 PTS · 4 REB · 7 AST · 26 MIN vs Oklahoma City Thunder (Apr 2, 2026)
 ```
 
-_Last updated: 2026-10-22T04:02:48.046Z_
+_Last updated: 2026-10-22T09:54:51.554Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
