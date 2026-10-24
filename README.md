@@ -111,7 +111,7 @@ Western Conference · Pacific Division
 28 PTS · 8 REB · 7 AST · 30 MIN vs Golden State Warriors (Oct 21, 2026)
 ```
 
-_Last updated: 2026-10-23T21:58:40.079Z_
+_Last updated: 2026-10-24T00:30:24.348Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
