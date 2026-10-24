@@ -170,12 +170,7 @@ ATP · World Ranking
 
 🏆 World No. 12 · 📈 Movement: ▼ (was No. 8)
 
-**📅 Last Match:**
-```
-❌ L vs Hubert Hurkacz (Oct 9, 2026) 4-6, 3-6
-```
-
-_Last updated: 2026-10-24T10:37:03.026Z_
+_Last updated: 2026-10-24T14:22:18.350Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
