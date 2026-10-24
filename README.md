@@ -153,7 +153,7 @@ Eastern Conference · Atlantic Division
 0 G · 1 A · 1 P vs NYR (Oct 22, 2026)
 ```
 
-_Last updated: 2026-10-24T00:30:28.546Z_
+_Last updated: 2026-10-24T05:33:49.331Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
