@@ -92,13 +92,14 @@ Western Conference · Pacific Division
 
 🏅 Standing: Western · 10
 
-📅 Next: @ UTAH (Oct 25)
+📅 Next: vs POR (Oct 28)
 
-📊 2026-2027 Record: 2W - 0L (100.0%)
+📊 2026-2027 Record: 3W - 0L (100.0%)
    █████████████████████████
 
 **📅 Recent Games:**
 ```
+✅ W 132-123 @ UTAH (Oct 25, 2026)
 ✅ W 125-117 vs LAC (Oct 23, 2026)
 ✅ W 127-105 vs GS  (Oct 21, 2026)
 ```
@@ -109,10 +110,10 @@ Western Conference · Pacific Division
 
 **📅 Last Game:**
 ```
-23 PTS · 6 REB · 7 AST · 37 MIN vs LA Clippers (Oct 23, 2026)
+52 PTS · 8 REB · 10 AST · 38 MIN vs Utah Jazz (Oct 25, 2026)
 ```
 
-_Last updated: 2026-10-25T21:33:00.241Z_
+_Last updated: 2026-10-25T23:58:02.639Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
