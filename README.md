@@ -112,7 +112,7 @@ Western Conference · Pacific Division
 23 PTS · 6 REB · 7 AST · 37 MIN vs LA Clippers (Oct 23, 2026)
 ```
 
-_Last updated: 2026-10-25T18:15:49.144Z_
+_Last updated: 2026-10-25T21:33:00.241Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
