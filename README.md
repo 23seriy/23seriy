@@ -169,9 +169,9 @@ _Last updated: 2026-10-26T04:30:52.141Z_
 ### 🇷🇸 Novak Djokovic (DJO)
 ATP · World Ranking
 
-🏆 World No. 12 · 📈 Movement: ▼ (was No. 8)
+🏆 World No. 12 · 📈 Movement: — (was No. 12)
 
-_Last updated: 2026-10-25T23:58:10.520Z_
+_Last updated: 2026-10-26T04:30:55.255Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
