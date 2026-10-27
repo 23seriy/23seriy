@@ -131,30 +131,30 @@ Eastern Conference · Atlantic Division
 
 🏅 Standing (2026-27): Atlantic · 3
 
-📅 Next: @ CGY (Oct 27)
+📅 Next: @ SEA (Oct 29)
 
-📊 2025-2026 Record: 7W - 6L (53.8%)
-   █████████████▍░░░░░░░░░░░
+📊 2025-2026 Record: 7W - 7L (50.0%)
+   ████████████▌░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
+❌ L   2-5   @ CGY (Oct 26, 2026)
 ✅ W   7-2   @ EDM (Oct 24, 2026)
 ✅ W   5-4   vs NYR (Oct 22, 2026)
 ✅ W   6-2   @ CBJ (Oct 20, 2026)
 ✅ W   3-1   vs SJS (Oct 19, 2026)
-❌ L   1-4   vs NYI (Oct 17, 2026)
 ```
 
 **🍁 Player Spotlight: William Nylander**
 <img src="https://assets.nhle.com/mugs/nhl/latest/8477939.png" alt="William Nylander headshot" height="72" align="right" />
-8 G · 10 A · 18 PTS
+9 G · 10 A · 19 PTS
 
 **📅 Last Game:**
 ```
-2 G · 0 A · 2 P vs EDM (Oct 24, 2026)
+1 G · 0 A · 1 P vs CGY (Oct 26, 2026)
 ```
 
-_Last updated: 2026-10-27T01:54:08.882Z_
+_Last updated: 2026-10-27T07:33:03.060Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
