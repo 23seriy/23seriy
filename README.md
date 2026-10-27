@@ -154,7 +154,7 @@ Eastern Conference · Atlantic Division
 2 G · 0 A · 2 P vs EDM (Oct 24, 2026)
 ```
 
-_Last updated: 2026-10-26T22:28:06.250Z_
+_Last updated: 2026-10-27T01:54:08.882Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
