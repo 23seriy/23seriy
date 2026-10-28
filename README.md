@@ -172,7 +172,7 @@ ATP · World Ranking
 
 🏆 World No. 12 · 📈 Movement: — (was No. 12)
 
-_Last updated: 2026-10-28T04:55:04.536Z_
+_Last updated: 2026-10-28T11:09:13.338Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
