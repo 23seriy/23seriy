@@ -129,7 +129,7 @@ _Last updated: 2026-10-28T04:54:57.579Z_
 Eastern Conference · Atlantic Division
 🟢 Season in progress
 
-🏅 Standing (2026-27): Atlantic · 3
+🏅 Standing (2026-27): Atlantic · 5
 
 📅 Next: @ SEA (Oct 29)
 
@@ -154,7 +154,7 @@ Eastern Conference · Atlantic Division
 1 G · 0 A · 1 P vs CGY (Oct 26, 2026)
 ```
 
-_Last updated: 2026-10-27T23:40:34.698Z_
+_Last updated: 2026-10-28T04:55:00.991Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
