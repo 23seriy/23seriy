@@ -155,7 +155,7 @@ Eastern Conference · Atlantic Division
 1 G · 0 A · 1 P vs CGY (Oct 26, 2026)
 ```
 
-_Last updated: 2026-10-28T18:08:58.894Z_
+_Last updated: 2026-10-28T23:01:20.246Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
