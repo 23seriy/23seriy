@@ -153,10 +153,10 @@ Eastern Conference · Atlantic Division
 
 **📅 Last Game:**
 ```
-1 G · 0 A · 1 P vs CGY (Oct 26, 2026)
+0 G · 0 A · 0 P vs SEA (Oct 28, 2026)
 ```
 
-_Last updated: 2026-10-29T05:06:13.849Z_
+_Last updated: 2026-10-29T12:36:37.764Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
