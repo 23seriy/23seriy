@@ -173,12 +173,7 @@ ATP · World Ranking
 
 🏆 World No. 12 · 📈 Movement: — (was No. 12)
 
-**📅 Last Match:**
-```
-✅ W vs Ugo Humbert (Oct 28, 2026) 4-6, 6-3, 6-4
-```
-
-_Last updated: 2026-10-28T23:01:24.618Z_
+_Last updated: 2026-10-29T05:06:17.780Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
