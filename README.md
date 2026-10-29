@@ -173,7 +173,12 @@ ATP · World Ranking
 
 🏆 World No. 12 · 📈 Movement: — (was No. 12)
 
-_Last updated: 2026-10-29T18:51:23.575Z_
+**📅 Last Match:**
+```
+❌ L vs Jan-Lennard Struff (Oct 29, 2026) 7-6, 5-7, 6-7
+```
+
+_Last updated: 2026-10-29T23:09:05.327Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
