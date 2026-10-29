@@ -94,8 +94,8 @@ Western Conference · Pacific Division
 
 📅 Next: @ GS (Oct 31)
 
-📊 2026-2027 Record: 3W - 1L (75.0%)
-   ██████████████████▊░░░░░░
+📊 2026-2027 Record: 4W - 1L (80.0%)
+   ████████████████████░░░░░
 
 **📅 Recent Games:**
 ```
@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 41 PTS · 5 REB · 9 AST · 37 MIN vs Portland Trail Blazers (Oct 27, 2026)
 ```
 
-_Last updated: 2026-10-29T05:06:09.770Z_
+_Last updated: 2026-10-29T12:36:34.531Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
