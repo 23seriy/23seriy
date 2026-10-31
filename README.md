@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs SEA (Oct 28, 2026)
 ```
 
-_Last updated: 2026-10-31T02:08:18.148Z_
+_Last updated: 2026-10-31T09:25:38.865Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
