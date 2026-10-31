@@ -92,18 +92,18 @@ Western Conference · Pacific Division
 
 🏅 Standing: Western · 10
 
-📅 Next: @ GS (Oct 31)
+📅 Next: vs TOR (Nov 2)
 
-📊 2026-2027 Record: 4W - 1L (80.0%)
-   ████████████████████░░░░░
+📊 2026-2027 Record: 4W - 2L (66.7%)
+   ████████████████▋░░░░░░░░
 
 **📅 Recent Games:**
 ```
+❌ L  95-112 @ GS  (Oct 30, 2026)
 ✅ W 103-87  @ LAC (Oct 28, 2026)
 ❌ L 129-136 vs POR (Oct 27, 2026)
 ✅ W 132-123 @ UTAH (Oct 25, 2026)
 ✅ W 125-117 vs LAC (Oct 23, 2026)
-✅ W 127-105 vs GS  (Oct 21, 2026)
 ```
 
 **👑 Player Spotlight: Luka Doncic**
@@ -112,10 +112,10 @@ Western Conference · Pacific Division
 
 **📅 Last Game:**
 ```
-41 PTS · 5 REB · 9 AST · 37 MIN vs Portland Trail Blazers (Oct 27, 2026)
+37 PTS · 7 REB · 5 AST · 37 MIN vs Golden State Warriors (Oct 30, 2026)
 ```
 
-_Last updated: 2026-10-31T02:08:14.468Z_
+_Last updated: 2026-10-31T09:25:35.383Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
