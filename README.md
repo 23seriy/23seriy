@@ -178,7 +178,7 @@ ATP · World Ranking
 ❌ L vs Jan-Lennard Struff (Oct 29, 2026) 7-6, 5-7, 6-7
 ```
 
-_Last updated: 2026-10-30T22:52:00.174Z_
+_Last updated: 2026-10-31T02:08:22.230Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
