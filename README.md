@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 1 G · 1 A · 2 P vs VAN (Oct 31, 2026)
 ```
 
-_Last updated: 2026-11-02T10:44:48.204Z_
+_Last updated: 2026-11-02T20:40:04.512Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
