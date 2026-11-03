@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 45 PTS · 15 REB · 6 AST · 35 MIN vs Toronto Raptors (Nov 1, 2026)
 ```
 
-_Last updated: 2026-11-02T20:40:00.511Z_
+_Last updated: 2026-11-03T02:49:11.197Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
