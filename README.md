@@ -173,12 +173,7 @@ ATP · World Ranking
 
 🏆 World No. 11 · 📈 Movement: ▼ (was No. 12)
 
-**📅 Last Match:**
-```
-✅ W vs Valentin Vacherot (Nov 3, 2026) 6-7, 7-5, 6-1
-```
-
-_Last updated: 2026-11-03T23:54:16.394Z_
+_Last updated: 2026-11-04T05:37:38.868Z_
 <!-- readme-scoreboard-atp end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
