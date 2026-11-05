@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 42 PTS · 7 REB · 13 AST · 36 MIN vs Miami Heat (Nov 2, 2026)
 ```
 
-_Last updated: 2026-11-04T21:07:54.321Z_
+_Last updated: 2026-11-05T02:04:00.579Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
