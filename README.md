@@ -90,7 +90,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🟢 Season in progress
 
-🏅 Standing: Western · 10
+🏅 Standing: Western · 2
 
 📅 Next: vs POR (Nov 7)
 
@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 40 PTS · 9 REB · 7 AST · 35 MIN vs Sacramento Kings (Nov 4, 2026)
 ```
 
-_Last updated: 2026-11-06T20:45:06.551Z_
+_Last updated: 2026-11-06T23:18:39.899Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
