@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 40 PTS · 9 REB · 7 AST · 35 MIN vs Sacramento Kings (Nov 4, 2026)
 ```
 
-_Last updated: 2026-11-06T14:52:20.893Z_
+_Last updated: 2026-11-06T20:45:06.551Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
