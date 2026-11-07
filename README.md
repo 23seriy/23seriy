@@ -90,20 +90,20 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🟢 Season in progress
 
-🏅 Standing: Western · 2
+🏅 Standing: Western · 1
 
-📅 Next: vs POR (Nov 7)
+📅 Next: @ DET (Nov 8)
 
-📊 2026-2027 Record: 7W - 2L (77.8%)
-   ███████████████████▍░░░░░
+📊 2026-2027 Record: 8W - 2L (80.0%)
+   ████████████████████░░░░░
 
 **📅 Recent Games:**
 ```
+✅ W 124-118 vs POR (Nov 6, 2026)
 ✅ W 116-103 @ SAC (Nov 4, 2026)
 ✅ W 138-117 vs MIA (Nov 2, 2026)
 ✅ W 131-125 vs TOR (Nov 1, 2026)
 ❌ L  95-112 @ GS  (Oct 30, 2026)
-✅ W 103-87  @ LAC (Oct 28, 2026)
 ```
 
 **👑 Player Spotlight: Luka Doncic**
@@ -112,10 +112,10 @@ Western Conference · Pacific Division
 
 **📅 Last Game:**
 ```
-40 PTS · 9 REB · 7 AST · 35 MIN vs Sacramento Kings (Nov 4, 2026)
+53 PTS · 5 REB · 5 AST · 38 MIN vs Portland Trail Blazers (Nov 6, 2026)
 ```
 
-_Last updated: 2026-11-07T00:44:44.422Z_
+_Last updated: 2026-11-07T06:55:00.730Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
