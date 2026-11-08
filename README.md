@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs UTA (Nov 3, 2026)
 ```
 
-_Last updated: 2026-11-07T22:34:31.735Z_
+_Last updated: 2026-11-08T02:09:59.934Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
