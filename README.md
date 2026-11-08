@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 53 PTS · 5 REB · 5 AST · 38 MIN vs Portland Trail Blazers (Nov 6, 2026)
 ```
 
-_Last updated: 2026-11-07T22:34:28.484Z_
+_Last updated: 2026-11-08T02:09:56.815Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
