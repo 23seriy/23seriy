@@ -90,7 +90,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🟢 Season in progress
 
-🏅 Standing: Western · 1
+🏅 Standing: Western · 3
 
 📅 Next: @ DET (Nov 8)
 
@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 53 PTS · 5 REB · 5 AST · 38 MIN vs Portland Trail Blazers (Nov 6, 2026)
 ```
 
-_Last updated: 2026-11-08T02:09:56.815Z_
+_Last updated: 2026-11-08T09:59:24.611Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
