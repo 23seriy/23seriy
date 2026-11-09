@@ -135,8 +135,7 @@ Eastern Conference · Atlantic Division
 
 📅 Next: vs NJD (Nov 9)
 
-📊 2025-2026 Record: 8W - 10L (44.4%)
-   ███████████░░░░░░░░░░░░░░
+📊 2025-2026 Record: 8W - 10L (44.4%)<br>&nbsp;&nbsp;&nbsp;███████████░░░░░░░░░░░░░░
 
 **📅 Recent Games:**
 ```
@@ -147,8 +146,9 @@ Eastern Conference · Atlantic Division
 ❌ L   2-5   @ CGY (Oct 26, 2026)
 ```
 
-**🍁 Player Spotlight: William Nylander**
 <img src="https://assets.nhle.com/mugs/nhl/latest/8477939.png" alt="William Nylander headshot" height="72" align="right" />
+
+**🍁 Player Spotlight: William Nylander**
 11 G · 11 A · 22 PTS
 
 **📅 Last Game:**
@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 1 G · 0 A · 1 P vs MTL (Nov 7, 2026)
 ```
 
-_Last updated: 2026-11-08T20:59:53.390Z_
+_Last updated: 2026-11-09T00:45:45.690Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
