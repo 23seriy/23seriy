@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs NJD (Nov 8, 2026)
 ```
 
-_Last updated: 2026-11-10T17:35:12.998Z_
+_Last updated: 2026-11-10T23:00:26.163Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
