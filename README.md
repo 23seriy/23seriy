@@ -108,14 +108,14 @@ Western Conference · Pacific Division
 <img src="https://a.espncdn.com/i/headshots/nba/players/full/3945274.png" alt="Luka Doncic headshot" height="72" align="right" />
 
 **👑 Player Spotlight: Luka Doncic**
-40.1 PPG · 7.8 RPG · 7.7 APG
+39.3 PPG · 7.8 RPG · 7.9 APG
 
 **📅 Last Game:**
 ```
 32 PTS · 8 REB · 10 AST · 39 MIN vs Atlanta Hawks (Nov 9, 2026)
 ```
 
-_Last updated: 2026-11-10T09:33:07.961Z_
+_Last updated: 2026-11-10T17:35:09.689Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
