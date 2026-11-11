@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 32 PTS · 8 REB · 10 AST · 39 MIN vs Atlanta Hawks (Nov 9, 2026)
 ```
 
-_Last updated: 2026-11-10T23:00:23.075Z_
+_Last updated: 2026-11-11T05:29:53.870Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
