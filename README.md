@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs COL (Nov 10, 2026)
 ```
 
-_Last updated: 2026-11-12T18:45:00.870Z_
+_Last updated: 2026-11-12T23:59:58.316Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
