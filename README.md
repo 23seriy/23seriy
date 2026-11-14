@@ -90,7 +90,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🟢 Season in progress
 
-🏅 Standing: Western · 1
+🏅 Standing: Western · 2
 
 📅 Next: @ PHX (Nov 15)
 
@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 32 PTS · 5 REB · 5 AST · 32 MIN vs Milwaukee Bucks (Nov 11, 2026)
 ```
 
-_Last updated: 2026-11-14T02:05:20.250Z_
+_Last updated: 2026-11-14T09:57:30.036Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
