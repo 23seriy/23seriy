@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs MIN (Nov 12, 2026)
 ```
 
-_Last updated: 2026-11-13T21:50:51.257Z_
+_Last updated: 2026-11-14T02:05:23.436Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
