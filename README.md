@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 32 PTS · 5 REB · 5 AST · 32 MIN vs Milwaukee Bucks (Nov 11, 2026)
 ```
 
-_Last updated: 2026-11-15T01:36:56.807Z_
+_Last updated: 2026-11-15T08:58:59.727Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
