@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 43 PTS · 3 REB · 9 AST · 36 MIN vs Phoenix Suns (Nov 15, 2026)
 ```
 
-_Last updated: 2026-11-16T01:40:58.777Z_
+_Last updated: 2026-11-16T09:15:13.962Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
