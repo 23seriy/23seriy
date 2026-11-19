@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 36 PTS · 6 REB · 7 AST · 42 MIN vs Charlotte Hornets (Nov 17, 2026)
 ```
 
-_Last updated: 2026-11-18T21:12:51.949Z_
+_Last updated: 2026-11-19T03:00:14.064Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
