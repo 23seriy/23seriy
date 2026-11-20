@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs CHI (Nov 17, 2026)
 ```
 
-_Last updated: 2026-11-19T21:15:10.268Z_
+_Last updated: 2026-11-20T02:53:28.052Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
