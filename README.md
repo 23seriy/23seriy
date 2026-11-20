@@ -90,7 +90,7 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🟢 Season in progress
 
-🏅 Standing: Western · 1
+🏅 Standing: Western · 2
 
 📅 Next: vs SAC (Nov 21)
 
@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 29 PTS · 5 REB · 7 AST · 37 MIN vs Utah Jazz (Nov 18, 2026)
 ```
 
-_Last updated: 2026-11-20T02:53:23.881Z_
+_Last updated: 2026-11-20T11:07:19.169Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
