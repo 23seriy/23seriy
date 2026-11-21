@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 2 A · 2 P vs LAK (Nov 19, 2026)
 ```
 
-_Last updated: 2026-11-21T09:26:06.410Z_
+_Last updated: 2026-11-21T17:14:13.245Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
