@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 1 A · 1 P vs CBJ (Nov 21, 2026)
 ```
 
-_Last updated: 2026-11-22T10:57:15.129Z_
+_Last updated: 2026-11-22T18:24:31.193Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
