@@ -149,14 +149,14 @@ Eastern Conference · Atlantic Division
 <img src="https://assets.nhle.com/mugs/nhl/latest/8477939.png" alt="William Nylander headshot" height="72" align="right" />
 
 **🍁 Player Spotlight: William Nylander**
-11 G · 13 A · 24 PTS
+11 G · 14 A · 25 PTS
 
 **📅 Last Game:**
 ```
-0 G · 2 A · 2 P vs LAK (Nov 19, 2026)
+0 G · 1 A · 1 P vs CBJ (Nov 21, 2026)
 ```
 
-_Last updated: 2026-11-22T02:55:38.596Z_
+_Last updated: 2026-11-22T10:57:15.129Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
