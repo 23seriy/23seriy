@@ -115,7 +115,7 @@ Western Conference · Pacific Division
 28 PTS · 4 REB · 8 AST · 33 MIN vs Utah Jazz (Nov 23, 2026)
 ```
 
-_Last updated: 2026-11-25T22:14:14.126Z_
+_Last updated: 2026-11-26T04:47:04.234Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
