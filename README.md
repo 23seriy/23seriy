@@ -131,7 +131,7 @@ _Last updated: 2026-11-26T04:47:04.234Z_
 Eastern Conference · Atlantic Division
 🟢 Season in progress
 
-🏅 Standing (2026-27): Atlantic · 7
+🏅 Standing (2026-27): Atlantic · 8
 
 📅 Next: @ BOS (Nov 27)
 
@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs NYI (Nov 23, 2026)
 ```
 
-_Last updated: 2026-11-25T22:14:18.055Z_
+_Last updated: 2026-11-26T04:47:08.183Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
