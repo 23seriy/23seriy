@@ -156,7 +156,7 @@ Eastern Conference · Atlantic Division
 0 G · 0 A · 0 P vs BOS (Nov 27, 2026)
 ```
 
-_Last updated: 2026-11-28T01:20:58.158Z_
+_Last updated: 2026-11-28T09:59:13.578Z_
 <!-- readme-scoreboard-nhl end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
