@@ -90,19 +90,19 @@ Metrics, alerting, distributed tracing, log aggregation, Hubble flow visualizati
 Western Conference · Pacific Division
 🟢 Season in progress
 
-🏅 Standing: Western · 1
+🏅 Standing: Western · 2
 
-📅 Next: @ SA (Nov 28)
+📅 Next: @ MEM (Nov 29)
 
-📊 2026-2027 Record: 15W - 3L (83.3%)<br>&nbsp;&nbsp;&nbsp;████████████████████▊░░░░
+📊 2026-2027 Record: 15W - 4L (78.9%)<br>&nbsp;&nbsp;&nbsp;███████████████████▋░░░░░
 
 **📅 Recent Games:**
 ```
+❌ L  96-99  @ SA  (Nov 27, 2026)
 ✅ W 109-94  vs UTAH (Nov 23, 2026)
 ✅ W 106-104 vs SAC (Nov 20, 2026)
 ❌ L  97-109 vs UTAH (Nov 18, 2026)
 ✅ W 118-114 vs CHA (Nov 17, 2026)
-✅ W 131-123 @ PHX (Nov 15, 2026)
 ```
 
 <img src="https://a.espncdn.com/i/headshots/nba/players/full/3945274.png" alt="Luka Doncic headshot" height="72" align="right" />
@@ -112,10 +112,10 @@ Western Conference · Pacific Division
 
 **📅 Last Game:**
 ```
-28 PTS · 4 REB · 8 AST · 33 MIN vs Utah Jazz (Nov 23, 2026)
+31 PTS · 6 REB · 8 AST · 39 MIN vs San Antonio Spurs (Nov 27, 2026)
 ```
 
-_Last updated: 2026-11-28T01:20:53.908Z_
+_Last updated: 2026-11-28T09:59:09.619Z_
 <!-- readme-scoreboard-nba end -->
 
 <sub>Powered by <a href="https://github.com/23seriy/readme-scoreboard">readme-scoreboard</a></sub>
